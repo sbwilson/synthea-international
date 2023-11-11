@@ -82,4 +82,8 @@ FROM
 	INNER JOIN g49 on g01.sa2_code_2021 = g49.sa2_code_2021					-- Education
 	INNER JOIN g15 on g01.sa2_code_2021 = g15.sa2_code_2021					-- Education (current enrolment)
 	INNER JOIN race_view on g01.sa2_code_2021 = race_view.sa2_code_2021 	-- Attempt at a racial view 
+	
+	
+--WHERE g01.sa2_code_2021='103031075'
+--LIMIT(20)
 ;
