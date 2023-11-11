@@ -1,0 +1,1012 @@
+id,name,address,city,state,zip,phone,LAT,LON,hasSpecialties,ADDICTION MEDICINE,ADVANCED HEART FAILURE AND TRANSPLANT CARDIOLOGY,ALLERGY/IMMUNOLOGY,ANESTHESIOLOGY,ANESTHESIOLOGY ASSISTANT,AUDIOLOGIST,CARDIAC ELECTROPHYSIOLOGY,CARDIAC SURGERY,CARDIOVASCULAR DISEASE (CARDIOLOGY),CERTIFIED NURSE MIDWIFE,CERTIFIED REGISTERED NURSE ANESTHETIST,CHIROPRACTIC,CLINICAL NURSE SPECIALIST,CLINICAL PSYCHOLOGIST,CLINICAL SOCIAL WORKER,COLORECTAL SURGERY (PROCTOLOGY),CRITICAL CARE (INTENSIVISTS),DENTIST,DERMATOLOGY,DIAGNOSTIC RADIOLOGY,EMERGENCY MEDICINE,ENDOCRINOLOGY,FAMILY PRACTICE,GASTROENTEROLOGY,GENERAL PRACTICE,GENERAL SURGERY,GERIATRIC MEDICINE,GERIATRIC PSYCHIATRY,GYNECOLOGICAL ONCOLOGY,HAND SURGERY,HEMATOLOGY,HEMATOLOGY/ONCOLOGY,HEMATOPOIETIC CELL TRANSPLANTATION AND CELLULAR TH,HOSPICE/PALLIATIVE CARE,HOSPITALIST,INFECTIOUS DISEASE,INTERNAL MEDICINE,INTERVENTIONAL CARDIOLOGY,INTERVENTIONAL PAIN MANAGEMENT,INTERVENTIONAL RADIOLOGY,MAXILLOFACIAL SURGERY,MEDICAL ONCOLOGY,NEPHROLOGY,NEUROLOGY,NEUROPSYCHIATRY,NEUROSURGERY,NUCLEAR MEDICINE,NURSE PRACTITIONER,OBSTETRICS/GYNECOLOGY,OCCUPATIONAL THERAPY,OPHTHALMOLOGY,OPTOMETRY,ORAL SURGERY,ORTHOPEDIC SURGERY,OSTEOPATHIC MANIPULATIVE MEDICINE,OTOLARYNGOLOGY,PAIN MANAGEMENT,PATHOLOGY,PEDIATRIC MEDICINE,PERIPHERAL VASCULAR DISEASE,PHYSICAL MEDICINE AND REHABILITATION,PHYSICAL THERAPY,PHYSICIAN ASSISTANT,PLASTIC AND RECONSTRUCTIVE SURGERY,PODIATRY,PREVENTATIVE MEDICINE,PSYCHIATRY,PULMONARY DISEASE,RADIATION ONCOLOGY,REGISTERED DIETITIAN OR NUTRITION PROFESSIONAL,"RHEUMATOLOGY,",SLEEP MEDICINE,SPEECH LANGUAGE PATHOLOGIST,SPORTS MEDICINE,SURGICAL ONCOLOGY,THORACIC SURGERY,UNDEFINED PHYSICIAN TYPE (SPECIFY),"UROLOGY,",VASCULAR SURGERY,id
+1,Abbotsford Private Hospital,61 Cambridge Street,West Leederville,WA,6007,08 9200 6282,-31.940992,115.837344,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30000
+2,Adelaide Clinic,33 Park Terrace,Gilberton,SA,5081,08 8269 8100,-34.90658,138.613167,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30001
+3,Adelaide Day Surgery Pty Ltd,18 North Terrace,Adelaide,SA,5000,08 8239 4900,-34.922409,138.588817,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30002
+4,Adelaide Eye & Laser Centre,215 Greenhill Road,Eastwood,SA,5063,08 8274 7000,-34.94042,138.6215,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30003
+5,Adelaide Surgicentre,89 King William Street,Kent Town,SA,5067,08 8211 0000,-34.917691,138.621022,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30004
+6,Aesthetic Day Surgery,14 Kensington Street,Kogarah,NSW,2217,02 9553 9905,-33.964843,151.135032,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30005
+7,Albany Hospital,Warden Avenue,Albany,WA,6330,08 9892 2222,-35.003407,117.904468,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30006
+8,Albert Road Clinic,31 Albert Road,Melbourne,Vic,3004,03 9256 8311,-37.834246,144.972151,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30007
+9,Albury Wodonga Health [Albury Campus],201 Borella Road,Albury,NSW,2640,02 6058 4444,-36.078401,146.939146,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30008
+10,Albury Wodonga Health [Wodonga Campus],69 Vermont Street,Wodonga,Vic,3690,02 6051 7111,-36.131791,146.879417,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30009
+11,Albury Wodonga Private Hospital,1125 Pemberton Street,West Albury,NSW,2640,02 6041 1411,-36.075621,146.883177,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30010
+12,Alexandra District Hospital,12 Cooper Street,Alexandra,Vic,3714,03 5772 0900,-37.195065,145.716143,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30011
+13,Alice Springs Hospital,6 Gap Road,Alice Springs,NT,870,08 8951 7777,-23.705758,133.878064,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30012
+14,Allowah Presbyterian Children's Hospital,8 Perry Street,Dundas,NSW,2117,02 9858 4994,-33.791787,151.06387,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30013
+15,Alpha Hospital,1 Burns Street,Alpha,Qld,4724,07 4809 7000,-23.649039,146.632962,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30014
+16,Alpine Health [Bright],36-42 Cobden Street,Bright,Vic,3741,03 5755 0100,-36.732701,146.965924,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30015
+17,Alpine Health [Mount Beauty],10 Hollonds Street,Mt Beauty,Vic,3699,03 5754 3500,-36.743354,147.169359,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30016
+18,Alpine Health [Myrtleford],30 O'Donnell Avenue,Myrtleford,Vic,3736,03 5751 9300,-36.554525,146.728795,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30017
+19,Angaston District Hospital,29 North Street,Angaston,SA,5353,08 8563 8500,-34.503549,139.054715,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30018
+20,Angliss Hospital,Albert Street,Upper Ferntree Gully,Vic,3156,1300 342 255,-37.898663,145.314166,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30019
+21,Armadale-Kelmscott Memorial Hospital,3056 Albany Highway,Armadale,WA,6112,08 9391 2000,-32.133212,116.020023,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30020
+22,Armidale Hospital,226 Rusden Street,Armidale,NSW,2350,02 6776 9500,-30.512726,151.655629,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30021
+23,Armidale Private Hospital,Rusden Street,Armidale,NSW,2350,02 6771 4000,-30.512719,151.654565,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30022
+24,Ashford Hospital,55 Anzac Highway,Ashford,SA,5035,08 8375 5222,-34.948142,138.576725,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30023
+25,Atherton Hospital,Corner of Louise and Jack Streets,Atherton,Qld,4883,07 4091 0211,-17.266635,145.483177,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30024
+26,Attadale Rehabilitation Hospital,21 Hislop Road,Attadale,WA,6156,08 9330 1000,-32.029729,115.810669,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30025
+27,Auburn Hospital,18-20 Hargrave Road,Auburn,NSW,2144,02 8759 3000,-33.859867,151.033204,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30026
+28,Augathella Hospital,Cavanagh Street,Augathella,Qld,4477,07 4656 7100,-25.796104,146.590919,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30027
+29,Augusta Hospital,Donovan Street,Augusta,WA,6290,08 9758 3222,-34.305814,115.157983,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30028
+30,Austin Hospital [Heidelberg],145 Studley Road,Heidelberg,Vic,3084,03 9496 5000,-37.756355,145.060236,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30029
+31,Ayr Hospital,2 Chippendale Street,Ayr,Qld,4807,07 4783 0855,-19.564066,147.408821,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30030
+32,Babinda Hospital,128 Munro Street,Babinda,Qld,4861,07 4067 8200,-17.343079,145.918908,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30031
+33,Baillie Henderson Hospital,Corner of Hogg and Tor Streets,Toowoomba,Qld,4350,07 4699 8888,-27.524371,151.936283,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30032
+34,Bairnsdale Regional Health Service,122 Day Street,Bairnsdale,Vic,3875,03 5150 3333,-37.830814,147.607905,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30033
+35,Balaklava Soldiers' Memorial District Hospital,16 War Memorial Drive,Balaklava,SA,5461,08 8862 1400,-34.139594,138.419596,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30034
+36,Ballarat Day Procedure Centre,1119-1123 Howitt Street,Wendouree,Vic,3350,03 5338 2666,-37.540799,143.83214,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30035
+37,Ballarat Health Services [Base Campus],1 Dummond Street North,Ballarat Central,Vic,3350,03 5320 4000,-37.559658,143.847041,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30036
+38,Ballarat Health Services [Queen Elizabeth Campus],102 Ascot Street,Ballarat,Vic,3350,03 5320 3700,-37.564276,143.843264,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30037
+39,Ballina Day Surgery,"Suite 6, 46 Tamar Street",Ballina,NSW,2478,02 6681 9999,-28.870711,153.563241,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30038
+40,Ballina Hospital,78-92 Cherry Street,Ballina,NSW,2478,02 6686 2111,-28.863525,153.564013,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30039
+41,Balmain Hospital,29 Booth Street,Balmain,NSW,2041,02 9395 2111,-33.859469,151.181469,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30040
+42,Balranald Multi Purpose Service,41-43 Court Street,Balranald,NSW,2715,03 5071 9800,-34.644549,143.568413,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30041
+43,Bamaga Hospital,Sagaukaz Street,Bamaga,Qld,4876,07 4069 3166,-10.893996,142.385131,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30042
+44,Bankstown Lidcombe Hospital,68 Eldridge Road,Bankstown,NSW,2200,02 9722 8000,-33.933088,151.020823,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30043
+45,Baradine Multi Purpose Service,5-9 Macquarie Street,Baradine,NSW,2396,02 6843 4100,-30.945316,149.066189,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30044
+46,Baralaba Hospital,Stopford Street,Baralaba,Qld,4702,07 4998 2800,-24.184268,149.809586,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30045
+47,Barcaldine Hospital,Oak Street,Barcaldine,Qld,4725,07 4650 4000,-23.553316,145.293674,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30046
+48,Barham Hospital,70 Punt Road,Barham,NSW,2732,03 5451 1000,-35.623823,144.133479,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30047
+49,Baringa Private Hospital,31 Mackays Road,Coffs Harbour,NSW,2450,02 6659 4444,-30.278813,153.102893,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30048
+50,Barmera Health Service,Hawdon Street,Barmera,SA,5345,08 8588 0400,-34.249146,140.471706,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30049
+51,Barraba Multi Purpose Service,Edward Street,Barraba,NSW,2347,02 6782 2500,-30.382482,150.605778,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30050
+52,Bass Coast Regional Health,235 Graham Street,Wonthaggi,Vic,3995,03 5671 3333,-38.608747,145.580906,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30051
+53,Batemans Bay Hospital,7 Pacific Street,Batemans Bay,NSW,2536,02 4475 1500,-35.714055,150.182375,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30052
+54,Bathurst Health Service,361-365 Howick Street,Bathurst,NSW,2795,02 6330 5311,-33.406512,149.572699,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30053
+55,Bathurst Private Hospital,Gorman's Hill Road,Bathurst,NSW,2795,02 6331 7766,-33.435215,149.589242,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30054
+56,Batlow/Adelong Multi Purpose Service,61-81 Pioneer Street,Batlow,NSW,2730,02 6941 4333,-35.521951,148.147891,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30055
+57,Beaconsfield District Health Service,13 Bolton Street,Beaconsfield,Tas,7270,03 6702 6060,-41.193478,146.806719,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30056
+58,Beaudesert Hospital,64 Tina Street,Beaudesert,Qld,4285,07 5541 9111,-27.984869,153.002536,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30057
+59,Beaufort & Skipton Health Service [Beaufort],28 Havelock Street,Beaufort,Vic,3373,03 5349 1600,-37.431028,143.382284,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30058
+60,Beaufort & Skipton Health Service [Skipton],Blake Street,Skipton,Vic,3361,03 5340 1100,-37.683998,143.367547,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30059
+61,Beechworth Health Service,52 Sydney Road,Beechworth,Vic,3747,03 5728 0200,-36.349359,146.690739,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30060
+62,Bega Valley Private Hospital,31 Parker Street,Bega,NSW,2550,02 6492 4144,-36.673617,149.845812,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30061
+63,Beleura Private Hospital,925 Nepean Highway,Mornington,Vic,3931,03 5976 0888,-38.225484,145.049136,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30062
+64,Bellbird Private Hospital,198 Canterbury Road,Blackburn South,Vic,3130,03 9845 2333,-37.833073,145.156018,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30063
+65,Bellinger River District Hospital,43 Church Street,Bellingen,NSW,2454,02 6659 5800,-30.457256,152.893209,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30064
+66,Belmont Hospital,16 Croudace Bay Road,Belmont,NSW,2280,02 4923 2000,-33.024631,151.648181,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30065
+67,Benalla & District Memorial Hospital,45-53 Coster Street,Benalla,Vic,3672,03 5760 2222,-36.555239,145.994675,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30066
+68,Bendigo Health Care Group [Anne Caudle],100 Barnard Street,Bendigo,Vic,3550,03 5454 6000,-36.750919,144.280399,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30067
+69,Bentley Hospital,18-56 Mills Street,Bentley,WA,6102,08 9416 3666,-32.005332,115.927922,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30068
+70,Berkeley Vale Private Hospital,Lorraine Avenue,Berkeley Vale,NSW,2261,02 4389 9100,-33.337061,151.432784,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30069
+71,Berrigan Multi Purpose Service,137-143 Memorial Place,Berrigan,NSW,2712,03 5888 5300,-35.662312,145.813035,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30070
+72,Berwick Eye and Surgicentre,22 Langmore Lane,Berwick,Vic,3806,03 9768 9210,-38.033667,145.346487,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30071
+73,Bethesda Hospital,25 Queenslea Drive,Claremont,WA,6010,08 9340 6300,-31.986967,115.778484,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30072
+74,Beverley Hospital,Sewell Street,Beverley,WA,6304,08 9646 3200,-32.102825,116.922962,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30073
+75,Biggenden Hospital,Alice Street,Biggenden,Qld,4621,07 4127 6400,-25.506406,152.051099,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30074
+76,Biloela Hospital,2 Hospital Road,Biloela,Qld,4715,07 4992 7000,-24.395813,150.517491,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30075
+77,Bingara Multi Purpose Service,Keera Street,Bingara,NSW,2404,02 6728 0100,-29.864055,150.579235,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30076
+78,Blackall Hospital,Shamrock Street,Blackall,Qld,4472,07 4650 7700,-24.422705,145.449349,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30077
+79,Blacktown Hospital,Blacktown Road,Blacktown,NSW,2148,02 9881 8000,-33.775552,150.917537,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30078
+80,Blackwater Hospital,Mackenzie Street,Blackwater,Qld,4717,07 4980 1800,-23.571873,148.878219,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30079
+81,Blayney Multi Purpose Service,3 Osman Street,Blayney,NSW,2799,02 6368 9000,-33.537728,149.248988,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30080
+82,Blue Mountains Hospital,Lot 3 Woodlands Road,Katoomba,NSW,2780,02 4784 6500,-33.705329,150.32111,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30081
+83,Boddington Hospital,46-53 Hotham Avenue,Boddington,WA,6390,08 9883 4444,-32.803715,116.475774,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30082
+84,Boggabri Multi Purpose Service,3 Wee Waa Street,Boggabri,NSW,2382,02 6749 7000,-30.711502,150.040014,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30083
+85,Bombala Multi Purpose Service,126-128 Wellington Street,Bombala,NSW,2632,02 6458 5777,-36.917513,149.235372,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30084
+86,Bonalbo Hospital,Clarence Way,Bonalbo,NSW,2469,02 6665 1203,-28.733777,152.622789,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30085
+87,Booleroo Centre District Hospital and Health Services,Stephens Street,Booleroo Centre,SA,5482,08 8667 2211,-32.877911,138.350958,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30086
+88,Boonah Hospital,11-17 Leonard Street,Boonah,Qld,4310,07 5463 3300,-27.999128,152.678943,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30087
+89,Boorowa Multi Purpose Service,62-80 Dry Street,Boorowa,NSW,2586,02 6385 3004,-34.442822,148.727073,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30088
+90,Boort District Health,31 Kiniry Street,Boort,Vic,3537,03 5451 5200,-36.111703,143.727285,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30089
+91,Bordertown Memorial Hospital,23 South Terrace,Bordertown,SA,5268,08 8752 9000,-36.312133,140.766438,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30090
+92,Bourke Multi Purpose Service,26 Tarcoon Street,Bourke,NSW,2840,02 6870 8888,-30.092823,145.947983,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30091
+93,Bourke Street Health Service,234 Bourke Street,Goulburn,NSW,2580,02 4823 7800,-34.748721,149.719321,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30092
+94,Bowen Hospital,Gregory Street,Bowen,Qld,4805,07 4786 8222,-20.007104,148.240327,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30093
+95,Bowral Hospital,Lot 3 Mona Road,Bowral,NSW,2576,02 4861 0200,-34.485043,150.423796,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30094
+96,Box Hill Hospital,8 Arnold Street,Box Hill,Vic,3128,1300 342 255,-37.813682,145.119094,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30095
+97,Boyup Brook Soldiers Memorial Hospital,Hospital Road,Boyup Brook,WA,6244,08 9765 0222,-33.839231,116.390639,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30096
+98,Braeside Hospital,340 Prairie Vale Road,Prairiewood,NSW,2176,02 9616 8600,-33.861917,150.902192,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30097
+99,Braidwood Multi Purpose Service,77 Monkittee Street,Braidwood,NSW,2622,02 4842 2566,-35.443216,149.805302,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30098
+100,Brewarrina Multi Purpose Service,56 Doyle Street,Brewarrina,NSW,2839,02 6830 5000,-29.961627,146.863796,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30099
+101,Bridgetown Hospital,16-18 Peninsula Road,Bridgetown,WA,6255,08 9782 1222,-33.951681,116.132183,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30100
+102,Brindabella Endoscopy and Day Surgery Centre,"Suite 7, 5 Dann Close",Garran,ACT,2605,02 6282 7788,-35.3495,149.1031,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30101
+103,Brisbane Endoscopy Services,Suites 16-18/259 McCullough Street,Sunnybank,Qld,4109,07 3344 1844,-27.572418,153.061985,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30102
+104,Brisbane Private Hospital,259 Wickham Terrace,Brisbane,Qld,4000,07 3834 6111,-27.464756,153.022642,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30103
+105,Brisbane Waters Private Hospital,21 Vidler Avenue,Woy Woy,NSW,2256,02 4341 9522,-33.495233,151.321708,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30104
+106,Broadmeadows Health Service,35 Johnstone Street,Broadmeadows,Vic,3047,03 8345 5000,-37.684321,144.913106,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30105
+107,Broken Hill Hospital,176 Thomas Street,Broken Hill,NSW,2880,08 8080 1333,-31.947609,141.454703,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30106
+108,Broome Hospital,Robinson Street,Broome,WA,6725,08 9194 2222,-17.960975,122.236289,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30107
+109,Bruce Rock Memorial Hospital,35 Dunstall Street,Bruce Rock,WA,6418,08 9061 1311,-31.873038,118.146414,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30108
+110,Buderim Gastroenterology Centre,"Suite 5, 102 Wises Road",Maroochydore,Qld,4558,07 5475 4464,-26.671731,153.084944,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30109
+111,Buderim Private Hospital,12 Elsa Wilson Drive,Buderim,Qld,4556,07 5430 3303,-26.683988,153.092895,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30110
+112,Bulahdelah Hospital,Richmond Street,Bulahdelah,NSW,2423,02 4987 9900,-32.403949,152.210029,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30111
+113,Bulli Hospital,Hospital Road,Bulli,NSW,2516,02 4284 4344,-34.336667,150.907344,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30112
+114,Bunbury Hospital,Corner of Robertson Drive and Bussell Highway,Bunbury,WA,6230,08 9722 1000,-33.366986,115.648183,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30113
+115,Bundaberg Base Hospital,Bourbong Street,Bundaberg,Qld,4670,07 4150 2222,-24.868877,152.336157,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30114
+116,Bundoora Extended Care Centre,1231 Plenty Road,Bundoora,Vic,3083,03 9495 3100,-37.701124,145.055569,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30115
+117,Burnside War Memorial Hospital,120 Kensington Road,Toorak Gardens,SA,5065,08 8202 7222,-34.927126,138.638878,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30116
+118,Burra Hospital,46 Commercial Street,Burra,SA,5417,08 8892 2300,-33.685486,138.934577,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30117
+119,Busselton Health Campus,Mill Road,Busselton,WA,6280,08 9753 6000,-33.654351,115.319581,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30118
+120,Byron Central Hospital,54 Ewingsdale Road,Ewingsdale,NSW,2481,02 6639 9400,-28.637365,153.555898,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30119
+121,Caboolture Hospital,McKean Street,Caboolture,Qld,4510,07 5433 8888,-27.080776,152.963623,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30120
+122,Caboolture Private Hospital,McKean Street,Caboolture,Qld,4510,07 5495 9400,-27.080318,152.963628,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30121
+123,Cabrini Brighton,243 New Street,Brighton,Vic,3186,03 9508 8777,-37.91165,144.991572,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30122
+124,Cabrini Health Elsternwick Rehabilitation - Glenhuntly Rd,494 Glenhuntly Road,Elsternwick,Vic,3185,03 9508 5200,-37.88543,145.009328,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30123
+125,Cabrini Health Elsternwick Rehabilitation - Hopetoun,2-6 Hopetoun Street,Elsternwick,Vic,3185,03 9508 5100,-37.884778,145.01039,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30124
+126,Cabrini Malvern,183 Wattletree Road,Malvern,Vic,3144,03 9508 1222,-37.861641,145.0335,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30125
+127,Cabrini Prahran,646 High Street,Prahran,Vic,3181,03 95081000,-37.854034,145.009017,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30126
+128,Cairns Day Surgery,156-160 Grafton Street,Cairns,Qld,4870,07 4051 5454,-16.918973,145.771955,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30127
+129,Cairns Hospital,The Esplanade,Cairns,Qld,4870,07 4226 0000,-16.912537,145.768522,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30128
+130,Cairns Private Hospital,1 Upward Street,Cairns,Qld,4870,07 4052 5200,-16.918854,145.772282,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30129
+131,Caloundra Hospital,West Terrace,Caloundra,Qld,4551,07 5436 8500,-26.800582,153.119759,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30130
+132,Caloundra Private Clinic,96 Beerburrum Street,Caloundra,Qld,4551,07 5491 1522,-26.782379,153.125534,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30131
+133,Calvary Central Districts Hospital,25-37 Jarvis Road,Elizabeth Vale,SA,5112,08 8250 4111,-34.75542,138.656221,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30132
+134,Calvary Health Care Bethlehem,152 Como Parade West,Parkdale,Vic,3195,03 9596 2853,-37.896962,145.013415,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30133
+135,Calvary Health Care Riverina,Hardy Avenue,Wagga Wagga,NSW,2650,02 6925 3055,-35.118702,147.352811,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30134
+136,Calvary Health Care Tasmania - Lenah Valley Campus,49 Augusta Road,Lenah Valley,Tas,7008,03 6278 5333,-42.866099,147.303614,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30135
+137,Calvary Health Care Tasmania - St John's Campus,30 Cascade Road,South Hobart,Tas,7004,03 6323 7444,-42.895314,147.305975,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30136
+138,Calvary Health Care Tasmania - St Luke's Campus,24 Lyttleton Street,Launceston,Tas,7250,03 6335 3333,-41.433895,147.149521,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30137
+139,Calvary Health Care Tasmania - St Vincent's Campus,5 Frederick Street,Launceston,Tas,7250,03 6332 4999,-41.441013,147.141308,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30138
+140,Calvary Hospital,91-101 Rocky Point Road,Kogarah,NSW,2217,02 9553 3111,-33.976132,151.136206,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30139
+141,Calvary John James Hospital,173 Strickland Crescent,Deakin,ACT,2600,02 6281 8100,-35.319869,149.095662,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30140
+142,Calvary Mater Newcastle Hospital,20 Edith Street,Waratah,NSW,2298,02 4921 1211,-32.899371,151.720858,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30141
+143,Calvary North Adelaide Hospital,89 Strangways Terrace,Nth Adelaide,SA,5006,08 8239 9100,-34.910003,138.589095,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30142
+144,Calvary Private Hospital Bruce,Corner of Belconnen Way and Haydon Drive,Bruce,ACT,2617,02 6201 6363,-35.252882,149.088646,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30143
+145,Calvary Public Hospital,Haydon Drive,Bruce,ACT,2617,02 6201 6111,-35.253321,149.089654,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30144
+146,Calvary Rehabilitation Hospital,18 North East Road,Walkerville,SA,5081,08 8168 5700,-34.891739,138.611481,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30145
+147,Calvary Wakefield Hospital,300 Wakefield Street,Adelaide,SA,5000,08 8405 3333,-34.927689,138.611154,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30146
+148,Camden Hospital,65 Menangle Road,Camden,NSW,2570,02 4634 3000,-34.062702,150.693297,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30147
+149,Campbell Town Multi Purpose Service,70 High Street,Campbell Town,Tas,7210,03 6774 8000,-41.926339,147.493107,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30148
+150,Campbelltown Hospital,Therry Road,Campbelltown,NSW,2560,02 4634 3000,-34.077651,150.806321,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30149
+151,Campbelltown Private Hospital,42 Parkside Crescent (Corner of Hyde Street),Campbelltown,NSW,2560,02 4621 9111,-34.075607,150.804948,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30150
+152,Canberra Imaging Group Angiography/Interventional Suite,173 Strickland Cresent,Deakin,ACT,2600,02 6203 2092,-35.318557,149.096004,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30151
+153,Canossa Private Hospital,169 Seventeen Mile Rocks Road,Oxley,Qld,4075,07 3717 5555,-27.554703,152.963716,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30152
+154,Canowindra Hospital,Browns Avenue,Canowindra,NSW,2804,02 6340 3033,-33.557204,148.676576,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30153
+155,Canterbury Hospital,575 Canterbury Road,Campsie,NSW,2194,02 9787 0000,-33.919592,151.098275,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30154
+156,Capricorn Coast Hospital,8 Hoskyn Drive,Yeppoon,Qld,4703,07 4913 3000,-23.143888,150.734519,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30155
+157,Caritas Christi Hospice [Kew],104 Studley Park Road,Kew,Vic,3101,03 9231 5000,-37.804706,145.015557,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30156
+158,Carnarvon Hospital,Cleaver Street,Carnarvon,WA,6701,08 9941 0555,-24.886592,113.658993,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30157
+159,Casey Hospital,52 Kangan Drive,Berwick,Vic,3806,03 8768 1200,-38.045325,145.347181,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30158
+160,Casino Hospital,Hotham Street,Casino,NSW,2470,02 6662 2111,-28.859839,153.035827,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30159
+161,Casterton Memorial Hospital,63-69 Russell Street,Casterton,Vic,3311,03 5554 2555,-37.589989,141.392283,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30160
+162,Castle Hill Day Surgery,72-74 Cecil Avenue,Castle Hill,NSW,2154,02 8850 0500,-33.73507,151.004099,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30161
+163,Castlecrag Private Hospital,150 Edinburgh Road,Castlecrag,NSW,2068,02 9935 0200,-33.801822,151.217045,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30162
+164,Castlemaine Health,142 Cornish Street,Castlemaine,Vic,3450,03 5471 1555,-37.052539,144.212315,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30163
+165,Caulfield Hospital,260-294 Kooyong Road,Caulfield,Vic,3162,03 9076 6000,-37.882707,145.016892,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30164
+166,Ceduna District Health Service,3 Eyre Highway,Ceduna,SA,5690,08 8626 2110,-32.119099,133.672317,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30165
+167,Central Coast Day Hospital,"Suite 1, Fountain Corporate, 2 Ilya Avenue",Erina,NSW,2250,02 4367 3880,-33.439692,151.384354,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30166
+168,Central Gippsland Health Service [Maffra],48 Kent Street,Maffra,Vic,3860,03 5147 0100,-37.961032,146.983487,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30167
+169,Central Gippsland Health Service [Sale],155 Guthridge Parade,Sale,Vic,3850,03 5143 8600,-38.108408,147.080637,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30168
+170,Central Yorke Peninsula Hospital (Maitland),65 Robert Street,Maitland,SA,5573,08 8862 2626,-34.370494,137.673947,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30169
+171,Centre for Digestive Diseases,"Level 1, 229 Great North Road",Five Dock,NSW,2046,02 9713 4011,-33.865117,151.130092,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30170
+172,Cessnock Hospital,24 View Street,Cessnock,NSW,2325,02 4991 0555,-32.827754,151.348396,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30171
+173,Charleville Hospital,72 King Street,Charleville,Qld,4470,07 4650 5000,-26.410455,146.239228,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30172
+174,Charters Towers Hospital,137-139 Gill Street,Charters Towers,Qld,4820,07 4787 0333,-20.076167,146.264097,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30173
+175,Charters Towers Rehabilitation Unit,35 Gladstone Road,Charters Towers,Qld,4820,07 4787 5200,-20.076801,146.280459,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30174
+176,Chatswood Private Hospital,"Suite 1, 38B Albert Avenue",Chatswood,NSW,2067,02 9413 4822,-33.797612,151.185691,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30175
+177,Cherbourg Hospital,Fisher Street,Cherbourg,Qld,4605,07 4169 8800,-26.291519,151.956324,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30176
+178,Chermside Day Hospital,1/956 Gympie Road,Chermside,Qld,4032,07 3120 3444,-27.381971,153.029423,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30177
+179,Chesterville Day Hospital,28 Chesterville Road,Cheltenham,Vic,3192,03 9585 3777,-37.96046,145.0568,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30178
+180,Childers Hospital,44 Broadhurst Street,Childers,Qld,4660,07 4192 1133,-25.239416,152.273286,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30179
+181,Chinchilla Hospital,Slessar Street,Chinchilla,Qld,4413,07 4662 8888,-26.741337,150.634939,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30180
+182,Chris O’Brien Lifehouse,119-143 Missenden Road,Camperdown,NSW,2050,02 2851 4000,-33.890577,151.182234,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30181
+183,Clare Hospital,47 Farrell Flat Road,Clare,SA,5453,08 8842 6500,-33.829588,138.614416,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30182
+184,Clermont Hospital,Francis Street,Clermont,Qld,4721,07 4983 4000,-22.826219,147.632174,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30183
+185,Cleve District Hospital and Aged Care,North Terrace,Cleve,SA,5640,08 8628 2665,-33.697779,136.494162,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30184
+186,Cloncurry Hospital,1 Musgrave Street,Cloncurry,Qld,4824,07 4742 4500,-20.704166,140.527571,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30185
+187,Cobar Health Service,Lerida Road,Cobar,NSW,2835,02 6830 2111,-31.509026,145.825266,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30186
+188,Cobram District Hospital,24-32 Broadway Street,Cobram,Vic,3644,03 5871 0777,-35.916273,145.651029,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30187
+189,Coffs Day Hospital,69 Albany Street,Coffs Harbour,NSW,2450,02 6600 1000,-30.300233,153.115865,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30188
+190,Coffs Harbour Hospital,345 Pacific Highway,Coffs Harbour,NSW,2450,02 6656 7000,-30.317579,153.093667,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30189
+191,Cohuna District Hospital,144-158 King George Street,Cohuna,Vic,3568,03 5456 5300,-35.800063,144.214911,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30190
+192,Colac Area Health,2-28 Connor Street,Colac,Vic,3250,03 5232 5100,-38.341201,143.582854,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30191
+193,Coledale Hospital,636 Lawrence Hargrave Drive,Coledale,NSW,2515,02 4267 0111,-34.283797,150.950796,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30192
+194,Colin Street Day Hospital,51 Colin Street,West Perth,WA,6005,08 9321 4256,-31.949358,115.841569,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30193
+195,Collarenebri Multi Purpose Service,Walgett Street,Collarenebri,NSW,2833,02 6756 4800,-29.544889,148.581901,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30194
+196,Collie Hospital,Corner of Steere and Deakin Streets,Collie,WA,6225,08 9735 1333,-33.351403,116.162223,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30195
+197,Collinsville Hospital,Garrick Street,Collinsville,Qld,4804,07 4785 4777,-20.546108,147.838146,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30196
+198,Concord Hospital,Hospital Road,Concord,NSW,2139,02 9767 5000,-33.837288,151.092664,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30197
+199,Condobolin Health Service,Madline Street,Condobolin,NSW,2877,02 6890 1500,-33.082332,147.154161,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30198
+200,Coober Pedy Hospital and Health Service,Lot 89 Hospital Road,Coober Pedy,SA,5723,08 8672 5009,-29.004893,134.762066,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30199
+201,Cooktown Hospital,48 Hope Street,Cooktown,Qld,4895,07 4043 0100,-15.478067,145.249616,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30200
+202,Coolah Multi Purpose Service,111-135 Martin Street,Coolah,NSW,2843,02 6377 9100,-31.821473,149.710049,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30201
+203,Coolamon Multi Purpose Service,Doctor Buchanan Drive,Coolamon,NSW,2701,02 6927 3303,-34.819885,147.199329,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30202
+204,Coolenberg Day Surgery,60 Lake Road,Port Macquarie,NSW,2444,02 6584 0368,-31.439829,152.909473,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30203
+205,Cooma Hospital,Bent Street,Cooma,NSW,2630,02 6455 3222,-36.241389,149.130499,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30204
+206,Coonabarabran Health Service,101-103 Edwards Street,Coonabarabran,NSW,2357,02 6826 6100,-31.274791,149.284779,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30205
+207,Coonamble Multi Purpose Service,150 Castlereagh Street,Coonamble,NSW,2829,02 6827 1100,-30.964803,148.387527,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30206
+208,Cootamundra Hospital,120 Mackay Street,Cootamundra,NSW,2590,02 6942 0444,-34.634386,148.012796,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30207
+209,Coral Tree Family Centre,Badajoz And Twin Roads,North Ryde,NSW,2113,02 9887 5830,-33.804256,151.126212,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30208
+210,Corowa Hospital,74 Guy Street,Corowa,NSW,2646,02 6033 1333,-35.993528,146.383541,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30209
+211,Corrigin Hospital,49 Kirkwood Street,Corrigin,WA,6375,08 9063 0333,-32.324419,117.878816,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30210
+212,Corymbia House,92 David Street,Dandenong,Vic,3175,03 9791 3533,-37.977201,145.21715,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30211
+213,Cowell District Hospital and Aged Care,17 South Terrace,Cowell,SA,5602,08 8629 2437,-33.685299,136.921405,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30212
+214,Cowra Health Service,64 Liverpool Street,Cowra,NSW,2794,02 6340 9000,-33.832137,148.692376,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30213
+215,Craigieburn Health Service,274-304 Craigieburn Road,Craigieburn,Vic,3064,03 8338 3000,-37.596015,144.91928,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30214
+216,Cranbourne Integrated Care Centre,140-154 Sladen Street,Cranbourne,Vic,3977,03 5990 6789,-38.113312,145.280832,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30215
+217,Creswick District Hospital,1 Napier Street,Creswick,Vic,3363,03 5345 2403,-37.421192,143.891533,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30216
+218,Crookwell Hospital,17 Kialla Road,Crookwell,NSW,2583,02 4832 1300,-34.464222,149.467427,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30217
+219,Crows Nest Day Surgery,"Level 1, 22 Clarke Street",Crows Nest,NSW,2065,02 9955 5677,-33.825083,151.199293,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30218
+220,Crystal Brook and District Hospital,Edmund Terrace,Crystal Brook,SA,5523,08 8636 1100,-33.354297,138.213243,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30219
+221,Culcairn Multi Purpose Service,51-55 Balfour Street,Culcairn,NSW,2660,02 6029 8203,-35.667399,147.042104,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30220
+222,Cumberland Hospital,1-11 Hainsworth Street,Westmead,NSW,2145,02 9840 3000,-33.80159,150.995246,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30221
+223,Cummins and District Memorial Hospital,19-21 Tumby Bay Road,Cummins,SA,5631,08 8688 2629,-34.264155,135.73316,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30222
+224,Cunderdin Hospital,Cubbine Road,Cunderdin,WA,6407,08 9635 2222,-31.654404,117.244226,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30223
+225,Cunnamulla Hospital,56 Wicks Street,Cunnamulla,Qld,4490,07 4655 8100,-28.071658,145.690405,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30224
+226,Dalby Hospital,Hospital Road,Dalby,Qld,4405,07 4669 0555,-27.167153,151.278905,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30225
+227,Dalwallinu Hospital,Myers Street,Dalwallinu,WA,6609,08 9661 0200,-30.277229,116.656544,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30226
+228,Dame Phyllis Frost Centre - Marmak unit,Riding-Boundary Road,Deer Park,Vic,3023,03 8684 0000,-37.781307,144.742309,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30227
+229,Dandenong Campus,105-135 David Street,Dandenong,Vic,3175,03 9554 1000,-37.976459,145.218529,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30228
+230,Darwin Private Hospital,Rocklands Drive,Tiwi,NT,810,08 8920 6011,-12.357357,130.881789,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30229
+231,David Berry Hospital,85 Tannery Road,Berry,NSW,2535,02 4464 1001,-34.775909,150.712819,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30230
+232,Daylesford District Hospital,13 Hospital Street,Daylesford,Vic,3460,03 5321 6500,-37.337365,144.145774,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30231
+233,Dee Why Endoscopy Unit,"Level 4, Suite 4402, Dee Why Grand, 834 Pittwater Road",Dee Why,NSW,2099,02 9982 6333,-33.75674,151.28363,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30232
+234,Delegate Multi Purpose Service,15 Craigie Street,Delegate,NSW,2633,02 6459 8000,-37.04496,148.945958,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30233
+235,Deloraine District Hospital,East Barrack Street,Deloraine,Tas,7304,03 6701 2111,-41.528033,146.659605,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30234
+236,Deniliquin Hospital,411 Charlotte Street,Deniliquin,NSW,2710,03 5882 2800,-35.524044,144.963301,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30235
+237,Denman Multi Purpose Service,51-53 Ogilvie Street,Denman,NSW,2328,02 6547 3999,-32.389483,150.684453,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30236
+238,Denmark Hospital and Health Service,50 Scotsdale Road,Denmark,WA,6333,08 9848 0600,-34.957977,117.353489,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30237
+239,Dental Health Services Victoria,720 Swanston Street,Carlton,Vic,3053,03 9341 1000,-37.799299,144.964529,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30238
+240,Derby Hospital,Clarendon Street,Derby,WA,6728,08 9193 3333,-17.306339,123.633399,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30239
+241,Diagnostic Endoscopy Centre,601/438 Victoria Street,Darlinghurst,NSW,2010,02 8382 6622,-33.879519,151.220852,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30240
+242,Dimboola District Hospital,32-36 Anderson Street,Dimboola,Vic,3414,03 5389 1301,-36.449887,142.024286,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30241
+243,Dirranbandi Hospital,Corner of Jane and Cowildi Streets,Dirranbandi,Qld,4486,07 4625 8222,-28.579349,148.229159,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30242
+244,Djerriwarrh Health Service [Bacchus Marsh],29-35 Grant Street,Bacchus Marsh,Vic,3340,03 5367 2000,-37.678267,144.433264,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30243
+245,Dongara Eneabba Mingenew Health Service,48 Blenheim Road,Dongara,WA,6525,08 9927 0200,-29.265173,114.934179,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30244
+246,Donnybrook Hospital,Bentley Street,Donnybrook,WA,6239,08 9780 4333,-33.576942,115.816547,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30245
+247,Donvale Rehabilitation Hospital,1119 Doncaster Road,Donvale,Vic,3111,03 9841 1400,-37.789836,145.171655,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30246
+248,Doomadgee Hospital,Sharpe Street,Doomadgee,Qld,4830,07 4745 8800,-17.942527,138.825267,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30247
+249,Dorrigo Multi Purpose Service,14 Beech Street,Dorrigo,NSW,2453,02 6692 7700,-30.340625,152.713882,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30248
+250,Dorset Rehabilitation Centre,146 Derby Street,Pascoe Vale,Vic,3044,03 8371 9477,-37.723402,144.947436,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30249
+251,Dubbo Hospital,Myall Street,Dubbo,NSW,2830,02 6809 6809,-32.239339,148.620772,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30250
+252,Dudley-Orange Private Hospital,261 March Street,Orange,NSW,2800,02 6362 8122,-33.282219,149.121236,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30251
+253,Dumbleyung Memorial Hospital,Mcintyre Street,Dumbleyung,WA,6350,08 9863 5222,-33.310409,117.740499,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30252
+254,Dunedoo Multi Purpose Service,70 Digilah Street,Dunedoo,NSW,2844,02 6370 3000,-32.017204,149.397366,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30253
+255,Dungog Hospital,58 Hospital Road,Dungog,NSW,2420,02 4995 7000,-32.401948,151.746157,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30254
+256,Dysart Hospital,Queen Elizabeth Drive,Dysart,Qld,4745,07 4941 1911,-22.582729,148.353044,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30255
+257,East Grampians Health Service [Ararat],Lot 5B Girdlestone Street,Ararat,Vic,3377,03 5352 9300,-37.278816,142.932858,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30256
+258,East Grampians Health Service [Willaura],Delacombe Way,Willaura,Vic,3379,03 5354 1600,-37.544798,142.74587,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30257
+259,East Wimmera Health Service [Birchip],26 Duncan Street,Birchip,Vic,3483,03 5477 7100,-35.980167,142.915891,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30258
+260,East Wimmera Health Service [Charlton],4 Menzies Street,Charlton,Vic,3525,03 5477 6800,-36.271037,143.345889,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30259
+261,East Wimmera Health Service [Donald],7 Aitken Avenue,Donald,Vic,3480,03 5478 6200,-36.366895,142.976583,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30260
+262,East Wimmera Health Service [St Arnaud],52 North Western Road,St Arnaud,Vic,3478,03 5477 2100,-36.609275,143.246676,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30261
+263,East Wimmera Health Service [Wycheproof],19 Grandview Street,Wycheproof,Vic,3527,03 5478 0700,-36.078447,143.233779,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30262
+264,Eastern Heart Clinic,"Level 3, Campus Centre Building, Prince of Wales Hospital, Barker Street",Randwick,NSW,2031,02 9382 0700,-33.920616,151.237986,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30263
+265,Echuca Regional Health,9-27 Francis Street,Echuca,Vic,3564,03 5485 5000,-36.138186,144.748369,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30264
+266,Edenhope and District Memorial Hospital,128-134 Elizabeth Street,Edenhope,Vic,3318,03 5585 9800,-37.035323,141.288829,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30265
+267,Eidsvold Hospital,Cracow Road,Eidsvold,Qld,4627,07 4165 7100,-25.382639,151.125494,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30266
+268,Ellen Barron Family Centre,Hamilton Road,Chermside,Qld,4032,07 3139 6500,-27.385905,153.025152,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30267
+269,Elliston Hospital,6 Memorial Terrace,Elliston,SA,5670,08 8687 9001,-33.647912,134.892443,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30268
+270,Emerald Hospital,69 Hospital Road,Emerald,Qld,4720,07 4987 9400,-23.514826,148.154989,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30269
+271,Epping Surgery Centre,"Suite 3, Oxford Place, 44-46 Oxford Street",Epping,NSW,2121,02 9868 6555,-33.771132,151.083676,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30270
+272,Epworth Cliveden,29 Simpson Street,East Melbourne,Vic,3002,03 9419 7122,-37.815662,144.987547,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30271
+273,Epworth Eastern,1 Arnold Street,Box Hill,Vic,3128,03 8807 7100,-37.814678,145.119368,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30272
+274,Epworth Freemasons [Clarendon Street],166 Clarendon Street,East Melbourne,Vic,3002,03 9483 3833,-37.810694,144.984107,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30273
+275,Epworth Freemasons [Victoria Parade],320 Victoria Parade,East Melbourne,Vic,3002,03 9418 8188,-37.809284,144.98212,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30274
+276,Epworth Geelong,1 Epworth Place,Waurn Ponds,Vic,3216,03 5271 7777,-38.193882,144.302472,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30275
+277,Epworth Hawthorn,50 Burwood Road,Hawthorn,Vic,3122,03 9415 5777,-37.821229,145.023405,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30276
+278,Epworth Rehabilitation Brighton,85 Wilson Street,Brighton,Vic,3186,03 9591 9200,-37.913689,145.002815,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30277
+279,Epworth Rehabilitation Camberwell,888 Toorak Road,Camberwell,Vic,3124,03 9809 2444,-37.846223,145.054689,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30278
+280,Epworth Rehabilitation Richmond,89 Bridge Road,Richmond,Vic,3121,03 9426 6666,-37.817419,144.993503,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30279
+281,Epworth Richmond,89 Bridge Road,Richmond,Vic,3121,03 9426 6666,-37.817433,144.993029,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30280
+282,Esk Hospital,30 Highland Street,Esk,Qld,4312,07 5424 4600,-27.240398,152.418179,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30281
+283,Esperance Hospital,Hicks Street,Esperance,WA,6450,08 9071 0888,-33.856188,121.892205,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30282
+284,Esperance Multi Purpose Centre,Chapman Avenue,Dover,Tas,7117,03 6298 9200,-43.314749,147.016209,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30283
+285,Essendon Private Hospital,35 Rosehill Road,West Essendon,Vic,3040,03 9337 9577,-37.748597,144.885403,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30284
+286,Eudunda Hospital,40 Ward Street,Eudunda,SA,5374,08 8566 2007,-34.175482,139.090586,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30285
+287,Eugowra Multipurpose Service,Cooper Street,Eugowra,NSW,2806,02 6850 4000,-33.424421,148.366799,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30286
+288,Exmouth Hospital,Lyon Street,Exmouth,WA,6707,08 9949 3666,-21.928276,114.119882,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30287
+289,Eye-Tech Day Surgeries,"Level 5, St Andrews Place, 33 North Street",Spring Hill,Qld,4000,07 3831 4244,-27.461026,153.021898,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30288
+290,Eye-Tech Day Surgeries Southside,22-26 Sanders Street,Upper Mt Gravatt,Qld,4122,07 3420 2666,-27.557642,153.082042,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30289
+291,Fairfield Hospital,Corner of Polding Street and Prairie Vale Road,Prairiewood,NSW,2176,02 9616 8111,-33.860117,150.904339,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30290
+292,Figtree Private Hospital,1 Suttor Place,Figtree,NSW,2525,02 4255 5000,-34.440199,150.851024,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30291
+293,Finley Hospital,20-22 Dawe Avenue,Finley,NSW,2713,03 5883 1133,-35.641725,145.568139,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30292
+294,Fiona Stanley Hospital,11 Robin Warren Drive,Murdoch,WA,6150,08 6152 2222,-32.07012,115.846909,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30293
+295,Fitzroy Crossing Hospital,Fallon Road,Fitzroy Crossing,WA,6765,08 9166 1777,-18.191439,125.562765,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30294
+296,Flinders Island Multi Purpose Centre,James Street,Whitemark,Tas,7255,03 6359 2122,-40.121173,148.017059,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30295
+297,Flinders Medical Centre,Flinders Drive,Bedford Park,SA,5042,08 8204 5511,-35.022229,138.569439,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30296
+298,Flinders Private Hospital,1 Flinders Drive,Bedford Park,SA,5042,08 8275 3333,-35.020629,138.568089,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30297
+299,Forster Private Hospital,29-41 South Street,Forster,NSW,2428,02 6555 1333,-32.188561,152.514079,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30298
+300,Frances Perry House,"Levels 6 and 7, Corner of Grattan Street and Flemington Road",Parkville,Vic,3052,03 9344 5000,-37.798758,144.955135,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30299
+301,Frankston Hospital,2 Hastings Road,Frankston,Vic,3199,03 9784 7777,-38.150791,145.128428,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30300
+302,Frankston Private Hospital,24-28 Frankston Flinders Road,Frankston,Vic,3199,03 8796 1300,-38.154662,145.132902,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30301
+303,Fremantle Hospital,Alma Street,Fremantle,WA,6160,08 9431 3333,-32.058263,115.751448,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30302
+304,Friendly Society Private Hospital,19-23 Bingera Street,Bundaberg,Qld,4670,07 4331 1000,-24.870831,152.3429,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30303
+305,Fullarton Private Hospital,293-295 Fullarton Road,Parkside,SA,5063,08 8272 0233,-34.949265,138.624852,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30304
+306,Gatton Hospital,97-103 William Street,Gatton,Qld,4343,07 5468 4188,-27.566778,152.276269,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30305
+307,Gawler Health Service,21 Hutchinson Road,Gawler East,SA,5118,08 8521 2000,-34.593743,138.755044,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30306
+308,Gayndah Hospital,69 Warton Street,Gayndah,Qld,4625,07 4161 3500,-25.631384,151.604531,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30307
+309,George Town Hospital and Community Health Centre,47 Anne Street,George Town,Tas,7253,03 6702 6020,-41.103782,146.821149,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30308
+310,Geraldton Hospital,51-85 Shenton Street,Geraldton,WA,6530,08 9956 2222,-28.782808,114.610844,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30309
+311,Gilgandra Multi Purpose Service,6 Chelmsford Avenue,Gilgandra,NSW,2827,02 6880 5900,-31.704565,148.664889,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30310
+312,Gin Gin Hospital,5 King Street,Gin Gin,Qld,4671,07 4157 2222,-24.985707,151.953449,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30311
+313,Gippsland Southern Health Service - Korumburra,69-75 Bridge Street,Korumburra,Vic,3950,03 5654 2777,-38.430328,145.828249,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30312
+314,Gippsland Southern Health Service - Leongatha,66 Koonawarra Road,Leongatha,Vic,3953,03 5667 5555,-38.487171,145.950343,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30313
+315,Gladstone Hospital,Park Street,Gladstone,Qld,4680,07 4976 3200,-23.850654,151.248532,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30314
+316,Glen Eira Day Surgery,544 Hawthorn Road,Caulfield South,Vic,3162,03 9595 6600,-37.900377,145.019265,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30315
+317,Glen Innes Hospital,94 Taylor Street,Glen Innes,NSW,2370,02 6739 0200,-29.733293,151.731673,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30316
+318,Glenelg Community Hospital Inc,5 Farrell Street,Glenelg South,SA,5045,08 8294 5555,-34.990189,138.512321,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30317
+319,Glenferrie Private Hospital,29 Hilda Crescent,Hawthorn,Vic,3122,03 9009 3800,-37.819459,145.031544,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30318
+320,Glengarry Private Hospital,53 Arnisdale Road,Duncraig,WA,6023,08 9447 0111,-31.834253,115.784826,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30319
+321,Glenside Health Services,226 Fullarton Road,Glenside,SA,5065,08 7087 1000,-34.943429,138.627714,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30320
+322,Gloucester Hospital,166-182 Church Street,Gloucester,NSW,2422,02 6538 5000,-32.014787,151.958556,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30321
+323,Gnowangerup Hospital,Yougenup Road,Gnowangerup,WA,6335,08 9827 2222,-33.930469,118.002927,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30322
+324,Gold Coast Private Hospital,14 Hill Street,Southport,Qld,4215,07 5530 0300,-27.962084,153.385112,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30323
+325,Gold Coast University Hospital,1 Hospital Boulevard,Southport,Qld,4215,07 5687 0000,-27.958896,153.381173,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30324
+326,Golf Links Road Rehabilitation Centre,125 Golf Links Road,Frankston,Vic,3199,03 9783 7277,-38.173447,145.149769,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30325
+327,Goodooga Health Service,49 Hammond Street,Goodooga,NSW,2831,02 6820 6200,-29.110249,147.456114,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30326
+328,Goomalling Hospital,Forrest Street,Goomalling,WA,6460,08 9629 0100,-31.303928,116.831102,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30327
+329,Goondiwindi Hospital,Bowen Street,Goondiwindi,Qld,4390,07 4578 2400,-28.547951,150.302302,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30328
+330,Gordonvale Hospital,1-11 Highleigh Road,Gordonvale,Qld,4865,07 4043 3100,-17.087337,145.786159,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30329
+331,Gosford Hospital,76 Holden Street,Gosford,NSW,2250,02 4320 2111,-33.419451,151.340328,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30330
+332,Goulburn Hospital,130 Goldsmith Street,Goulburn,NSW,2580,02 4827 3111,-34.747527,149.712806,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30331
+333,Goulburn Valley Health [Shepparton],2 Graham Street,Shepparton,Vic,3630,03 5832 2322,-36.363625,145.404911,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30332
+334,Goulburn Valley Health [Tatura],64-68 Park Street,Tatura,Vic,3616,03 5824 8400,-36.439082,145.225535,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30333
+335,Goulburn Valley Health [Waranga],14 Coyle Street,Rushworth,Vic,3612,03 5851 8050,-36.587827,145.008593,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30334
+336,Gove Hospital,80 Matthew Flinders Way,Nhulunbuy,NT,880,08 8987 0211,-12.18602,136.777874,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30335
+337,Gower Wilson Multi Purpose Service,Lagoon Road,Lord Howe Island,NSW,2898,02 6563 2000,-31.535603,159.071307,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30336
+338,Grafton Base Hospital,174 Arthur Street,Grafton,NSW,2460,02 6640 2222,-29.674807,152.941274,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30337
+339,Graylands Selby-Lemnos and Special Care Health Service,Brockway Road,Mount Claremont,WA,6010,08 9347 6600,-31.961447,115.790855,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30338
+340,Greenslopes Day Surgery,687 Logan Road,Greenslopes,Qld,4120,1800 802 562,-27.510139,153.052889,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30339
+341,Greenslopes Private Hospital,Newdegate Street,Greenslopes,Qld,4120,07 3394 7111,-27.513052,153.046942,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30340
+342,Greenwich Hospital,97-115 River Road,Greenwich,NSW,2065,02 9903 8333,-33.827329,151.183376,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30341
+343,Grenfell Multi Purpose Service,80-96 Cowra Road,Grenfell,NSW,2810,02 6349 1700,-33.894286,148.167843,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30342
+344,Griffith Hospital,1 Noorebar Avenue,Griffith,NSW,2680,02 6969 5555,-34.282121,146.043774,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30343
+345,Griffith Rehabilitation Hospital,13 Dunrobin Road,Hove,SA,5048,08 8298 4299,-35.010285,138.523859,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30344
+346,Gulargambone Multi Purpose Service,47 Bourbah Street,Gulargambone,NSW,2828,02 6827 4200,-31.329812,148.469216,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30345
+347,Gulgong Multi Purpose Service,34 Goolma Road,Gulgong,NSW,2852,02 6374 3400,-32.366871,149.521893,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30346
+348,Gumeracha District Soldiers' Memorial Hospital,2 Albert Street,Gumeracha,SA,5233,08 8209 9200,-34.826269,138.881575,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30347
+349,Gundagai Hospital,50 Tor Street,Gundagai,NSW,2722,02 6940 6300,-35.051394,148.101764,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30348
+350,Gunnedah Hospital,2 Marquis Street,Gunnedah,NSW,2380,02 6741 8000,-30.983146,150.251339,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30349
+351,Guyra Multi Purpose Service,44-48 Sole Street,Guyra,NSW,2365,02 6738 4000,-30.213889,151.679112,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30350
+352,Gympie Hospital,12 Henry Street,Gympie,Qld,4570,07 5489 8444,-26.184353,152.658258,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30351
+353,Gympie Private Hospital,78-82 Channon Street,Gympie,Qld,4570,07 5483 0500,-26.184392,152.664191,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30352
+354,Halls Creek Hospital,70 Roberta Avenue,Halls Creek,WA,6770,08 9168 9222,-18.226008,127.666046,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30353
+355,Hampstead Rehabilitation Centre,207-255 Hampstead Road,Northfield,SA,5085,08 8222 1600,-34.860704,138.620381,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30354
+356,Harvey Hospital,42 Hayward Street,Harvey,WA,6220,08 9782 2222,-33.077554,115.896749,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30355
+357,Hawker Memorial Hospital,Cradock Road,Hawker,SA,5434,08 8648 4007,-31.893389,138.427841,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30356
+358,Hawkesbury Hospital,2 Day Street,Windsor,NSW,2756,02 4560 5555,-33.610712,150.820804,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30357
+359,Hay Hospital,351 Murray Street,Hay,NSW,2711,02 6990 8700,-34.500349,144.851433,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30358
+360,Healesville Hospital and Yarra Valley Health,377 Maroondah Highway,Healesville,Vic,3777,03 5962 4300,-37.646879,145.529032,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30359
+361,Healthscope Independence Services,13 Corporate Drive,Moorabbin,Vic,3189,03 8551 8888,-37.947818,145.081172,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30360
+362,HealthWest (West Coast District Hospital at Queenstown),Orr Street,Queenstown,Tas,7467,03 6471 3300,-42.081122,145.558303,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30361
+363,Heathcote Health,39 Hospital Street,Heathcote,Vic,3523,03 5431 0900,-36.925786,144.709499,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30362
+364,Hedland Health Campus,34 Colebatch Way,South Hedland,WA,6722,08 9174 1410,-20.413541,118.598178,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30363
+365,Heidelberg Endoscopy & Day Surgery Centre,177-179 Northern Road,Heidelberg Heights,Vic,3081,03 9458 2200,-37.730589,145.060271,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30364
+366,Heidelberg Repatriation Hospital [Heidelberg West],300 Waterdale Road,Heidelberg West,Vic,3081,03 9496 5000,-37.755973,145.04749,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30365
+367,Henty Multi Purpose Service,7 Keighran Street,Henty,NSW,2658,02 6929 4999,-35.515801,147.031847,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30366
+368,Herberton Hospital,23 Grace Street,Herberton,Qld,4887,07 4096 1000,-17.379371,145.38175,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30367
+369,Hervey Bay Hospital,Corner of Nissen and Uraween Roads,Pialba,Qld,4655,07 4120 6666,-25.298697,152.820639,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30368
+370,Hervey Bay Surgical Hospital,146-150 Boat Harbour Drive,Pialba,Qld,4655,07 4194 4000,-25.287202,152.834651,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30369
+371,Hesse Rural Health Service [Winchelsea],8 Gosney Street,Winchelsea,Vic,3241,03 5267 1200,-38.243369,143.985357,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30370
+372,Heywood Rural Health,21 Barclay Street,Heywood,Vic,3304,03 5527 0555,-38.137788,141.624256,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30371
+373,Hillcrest Rockhampton Private Hospital,4 Talford Street,Rockhampton,Qld,4700,07 4932 1321,-23.377595,150.496076,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30372
+374,Hillston Hospital,48C Burns Street,Hillston,NSW,2675,02 6961 7200,-33.478793,145.539032,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30373
+375,Hobart Private Hospital,Argyle Street,Hobart,Tas,7000,03 6214 3000,-42.880752,147.329886,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30374
+376,Hobsons Bay Endoscopy Centre Altona,Corner of Queen and Sargood Streets,Altona,Vic,3018,03 9398 8800,-37.869448,144.828494,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30375
+377,Hobsons Bay Endoscopy Centre Sydenham,566 Melton Highway,Sydenham,Vic,3037,03 8361 6400,-37.693365,144.758677,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30376
+378,Hobsons Bay Endoscopy Centre Werribee,179 Princes Highway,Werribee,Vic,3030,03 9731 8000,-37.890649,144.686494,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30377
+379,Holbrook Hospital,Bowler Street,Holbrook,NSW,2644,02 6036 2522,-35.723991,147.320276,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30378
+380,Hollywood Private Hospital,Monash Avenue,Nedlands,WA,6009,08 9346 6000,-31.969693,115.809148,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30379
+381,Holmesglen Private Hospital,490 South Road,Moorabbin,Vic,3189,03 9567 9000,-37.935738,145.050581,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30380
+382,Holy Spirit Northside Private Hospital,627 Rode Road,Chermside,Qld,4032,07 3326 3000,-27.390688,153.022728,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30381
+383,Home Hill Hospital,Tenth Avenue,Home Hill,Qld,4806,07 4790 5700,-19.661764,147.416759,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30382
+384,Hopewell Hospice,88 Allied Drive,Arundel,Qld,4214,07 5563 2930,-27.938981,153.380619,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30383
+385,Hornsby Ku-ring-gai Hospital,36-76 Palmerston Road,Hornsby,NSW,2077,02 9477 9123,-33.701448,151.112941,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30384
+386,Hughenden Hospital,14 Richmond Hill Drive,Hughenden,Qld,4821,07 4741 2800,-20.8424,144.1892,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30385
+387,Hunter New England Mater Mental Health Service,Edith Street,Waratah,NSW,2298,02 4033 5000,-32.897873,151.720669,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30386
+388,Hunter Valley Private Hospital,20 Mawson Street,Shortland,NSW,2307,02 4944 3744,-32.883085,151.695054,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30387
+389,Hunters Hill Private Hospital,9 Mount Street,Hunters Hill,NSW,2110,02 8876 9300,-33.835273,151.150172,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30388
+390,Huon Eldercare,3278 Huon Highway,Franklin,Tas,7113,03 6264 7100,-43.080869,147.016382,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30389
+391,Hurstville Private,37 Gloucester Road,Hurstville,NSW,2220,02 9579 7777,-33.962333,151.095989,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30390
+392,Illawarra Mental Health Services,,,NSW,2500,,-34.42623,150.891252,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30391
+393,Ingham Hospital,2-16 Mcilwraith Street,Ingham,Qld,4850,07 4720 3000,-18.652293,146.164222,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30392
+394,Inglewood & District Health Service,3 Hospital Street,Inglewood,Vic,3517,03 5431 7000,-36.572147,143.873755,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30393
+395,Inglewood Hospital,Cunningham Highway,Inglewood,Qld,4387,07 4652 0888,-28.417647,151.061856,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30394
+396,Injune Hospital,Fifth Avenue,Injune,Qld,4454,07 4626 1188,-25.847096,148.562471,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30395
+397,Innisfail Hospital,87 Rankin Street,Innisfail,Qld,4860,07 4016 1411,-17.518939,146.030049,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30396
+398,Inverell Hospital,41 Swanbrook Road,Inverell,NSW,2360,02 6721 9500,-29.770728,151.130139,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30397
+399,Ipswich Day Hospital,10 Churchill Street,Ipswich,Qld,4305,07 3282 8800,-27.6184,152.7608,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30398
+400,Ipswich Hospital,Chelmsford Avenue,Ipswich,Qld,4305,07 3810 1111,-27.619465,152.759313,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30399
+401,Ivanhoe Hospital,11 Columbus Street,Ivanhoe,NSW,2878,02 6990 2200,-32.898193,144.298904,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30400
+402,Jamestown Hospital and Health Service,South Terrace,Jamestown,SA,5491,08 8664 1406,-33.212265,138.616249,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30401
+403,Jandowae Hospital,13 Dalby Street,Jandowae,Qld,4410,07 4668 4555,-26.781016,151.105313,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30402
+404,Jerilderie Multi Purpose Service,33-39 Southey Street,Jerilderie,NSW,2716,03 5886 1300,-35.356628,145.720596,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30403
+405,Jessie McPherson Private Hospital,246 Clayton Road,Clayton,Vic,3168,03 9594 2776,-37.9201,145.1225,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30404
+406,John Fawkner Private Hospital,275 Moreland Road,Coburg,Vic,3058,03 9385 2500,-37.754369,144.958398,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30405
+407,John Flynn Private Hospital,42 Inland Drive,Tugun,Qld,4224,07 5598 9000,-28.153911,153.488616,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30406
+408,John Hunter Hospital,Lookout Road,New Lambton,NSW,2305,02 4921 3000,-32.922177,151.692438,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30407
+409,Jolimont Endoscopy,19/201 Wellington Parade Sth,East Melbourne,Vic,3002,03 9654 8033,-37.816762,144.978596,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30408
+410,Joondalup Health Campus (Private),Corner of Grand Boulevard and Shenton Avenue,Joondalup,WA,6027,08 9400 9400,-31.738788,115.77034,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30409
+411,Joondalup Health Campus (Public),Shenton Avenue,Joondalup,WA,6027,08 9400 9030,-31.738788,115.771737,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30410
+412,Joyce Palmer Health Service,Beach Road,Palm Island,Qld,4816,07 4752 5100,-18.732733,146.578731,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30411
+413,Julia Creek Hospital,1 Burke Street,Julia Creek,Qld,4823,07 4746 4000,-20.656096,141.749875,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30412
+414,Junee Multi Purpose Service,67 Broadway Street,Junee,NSW,2663,02 6924 8200,-34.866914,147.581314,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30413
+415,Justice Health Services,1300 Anzac Parade,Malabar,NSW,2036,02 9700 3000,-33.96907,151.243206,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30414
+416,Kahlyn Day Centre,40 Briant Road,Magill,SA,5072,08 8331 0811,-34.916913,138.669951,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30415
+417,Kalamunda Hospital,Elizabeth Street,Kalamunda,WA,6076,08 9257 8100,-31.966471,116.060267,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30416
+418,Kalbarri Health Centre,Kaiber Street,Kalbarri,WA,6536,08 9937 0100,-27.712843,114.161574,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30417
+419,Kalgoorlie Hospital,Piccadilly Street,Kalgoorlie,WA,6430,08 9080 5888,-30.740839,121.470122,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30418
+420,Kangaroo Island Health Service,3 to 7 The Esplanade,Kingscote,SA,5223,08 8553 4200,-35.652693,137.641289,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30419
+421,Kapunda Hospital,26 Nash Street,Kapunda,SA,5373,08 8566 2007,-34.330289,138.921679,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30420
+422,Kareena Private Hospital,86 Kareena Road,Caringbah,NSW,2229,02 9717 0000,-34.034986,151.114186,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30421
+423,Karitane Mothercraft Society,Corner of The Horsley Drive and Mitchell Street,Carramar,NSW,2163,02 9794 2300,-33.879777,150.965763,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30422
+424,Karoonda and District Soldiers' Memorial Hospital,13 Stokes Road,Karoonda,SA,5307,08 8579 1111,-35.094226,139.889429,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30423
+425,Karratha Health Campus,"62 Balmoral Road, Pegs Creek",Karratha,WA,6714,08 9144 7777,-20.732208,116.839511,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30424
+426,Katanning Hospital,Clive Street,Katanning,WA,6317,08 9821 6222,-33.683032,117.563409,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30425
+427,Katherine Hospital,Gorge Road,Katherine,NT,850,08 8973 9211,-14.439002,132.272129,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30426
+428,Kawana Private Hospital,14/5 Innovation Parkway,Birtinya,Qld,4575,07 5413 9100,-26.733825,153.122164,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30427
+429,Kellerberrin Memorial Hospital,51-63 Gregory Street,Kellerberrin,WA,6410,08 9045 6222,-31.628902,117.716531,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30428
+430,Kempsey Hospital,119 River Street,Kempsey,NSW,2440,02 6562 6155,-31.067841,152.820038,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30429
+431,Kenmore Hospital,Taralga Road,Kenmore,NSW,2580,02 4827 3303,-34.721253,149.751344,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30430
+432,Kerang District Health,13 Burgoyne Street,Kerang,Vic,3579,03 5450 9200,-35.724287,143.916563,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30431
+433,Kiama Hospital,Bonaira Street,Kiama,NSW,2533,02 4233 1033,-34.682937,150.850514,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30432
+434,Kilcoy Hospital,19 Brown Street,Kilcoy,Qld,4515,07 5422 4411,-26.941009,152.561495,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30433
+435,Kimba District Hospital and Aged Care,15 Martin Terrace,Kimba,SA,5641,08 8627 2400,-33.143552,136.416013,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30434
+436,King Edward Memorial Hospital for Women,374 Bagot Road,Subiaco,WA,6008,08 9340 2222,-31.950093,115.818576,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30435
+437,King Island Multi Purpose Centre,Edward Street,Currie,Tas,7256,03 6462 9900,-39.931673,143.855453,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30436
+438,Kingaroy Hospital,166 Youngman Street,Kingaroy,Qld,4610,07 4162 9200,-26.532454,151.838307,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30437
+439,Kingston Centre [Cheltenham],400 Warrigal Road,Cheltenham,Vic,3192,03 9265 1000,-37.955018,145.078969,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30438
+440,Kingston Soldiers' Memorial Hospital,Corner of Cooke and Young Streets,Kingston SE,SA,5275,08 8767 0222,-36.835501,139.848763,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30439
+441,Kingsway Day Surgery,"Level 1, 533 Kingsway",Miranda,NSW,2228,02 9717 0700,-34.034096,151.103827,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30440
+442,Kirwan Rehabilitation Unit,138 Thuringowa Drive,Kirwan,Qld,4817,07 4799 9800,-19.303796,146.731627,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30441
+443,Knox Private Hospital,262 Mountain Highway,Wantirna,Vic,3152,03 9210 7000,-37.849645,145.228035,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30442
+444,Kojonup Hospital,Spring Street,Kojonup,WA,6395,08 9831 2222,-33.829481,117.152903,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30443
+445,Kondinin Districts Health Service,130 Graham Street,Kondinin,WA,6367,08 9889 1000,-32.488949,118.265439,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30444
+446,Kooweerup Regional Health Service,215 Rossiter Road,Koo Wee Rup,Vic,3981,03 5997 9679,-38.200653,145.484433,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30445
+447,Kununoppin Health Service,Leake Street,Kununoppin,WA,6489,08 9683 2044,-31.109682,117.922889,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30446
+448,Kununurra Hospital,96 Coolibah Drive,Kununurra,WA,6743,08 9166 4222,-15.775404,128.734229,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30447
+449,Kurri Kurri Hospital,432 Lang Street,Kurri Kurri,NSW,2327,02 4936 3200,-32.825017,151.463018,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30448
+450,Kyabram & District Health Service,88 Fenaughty Street,Kyabram,Vic,3620,03 5857 0200,-36.315539,145.042705,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30449
+451,Kyneton District Health Service,7-25 Caroline Chisholm Drive,Kyneton,Vic,3444,03 5422 9900,-37.254431,144.469742,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30450
+452,Kyogle Multi Purpose Service,199 Summerland Way,Kyogle,NSW,2474,02 6632 1522,-28.627124,153.001742,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30451
+453,La Trobe Private Hospital,Corner Kingsbury Drive & Plenty Road,Bundoora,Vic,3083,03 9473 8900,-37.716679,145.044334,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30452
+454,Lachlan Health Service - Forbes,Lot 1 Elgin Street,Forbes,NSW,2871,02 6850 7100,-33.396281,148.013831,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30453
+455,Lachlan Health Service - Parkes,2 Morrissey Way,Parkes,NSW,2870,02 6861 2400,-33.151507,148.169757,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30454
+456,Lady Davidson Private Hospital,Bobbin Head Road,North Turramurra,NSW,2074,02 9488 0111,-33.726718,151.139119,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30455
+457,Laidley Hospital,75 William Street,Laidley,Qld,4341,07 5466 8100,-27.632725,152.400015,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30456
+458,Lake Cargelligo Multi Purpose Service,Uabba Street,Lake Cargelligo,NSW,2672,02 6898 1200,-33.292027,146.374304,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30457
+459,Lake Grace Hospital,Stubbs Street,Lake Grace,WA,6353,08 9890 2222,-33.102524,118.452658,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30458
+460,Lake Macquarie Private Hospital,3 Sydney Street,Gateshead,NSW,2290,02 4943 3122,-32.981232,151.691719,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30459
+461,Lameroo District Health Service,1A Vardon Terrace,Lameroo,SA,5302,08 8576 4600,-35.328203,140.514643,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30460
+462,Latrobe Regional Hospital [Traralgon],10 Village Avenue,Traralgon,Vic,3844,03 5173 8000,-38.218475,146.471335,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30461
+463,Launceston General Hospital,274-280 Charles Street,Launceston,Tas,7250,03 6777 6777,-41.446634,147.142059,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30462
+464,Laura and District Hospital,Mill Street,Laura,SA,5480,08 8663 2568,-33.174925,138.298687,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30463
+465,Laverton Hospital,Beria Road,Laverton,WA,6440,08 9088 2600,-28.626817,122.399861,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30464
+466,Lawrence Hargrave Private Hospital,72 Phillip Street,Thirroul,NSW,2515,02 4267 2811,-34.310173,150.917631,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30465
+467,Leeton Hospital,1 Myall Street,Leeton,NSW,2705,02 6953 1111,-34.545222,146.408831,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30466
+468,Leigh Creek Health Service,Black Oak Drive,Leigh Creek,SA,5731,08 8678 6022,-30.593186,138.399925,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30467
+469,Leonora Hospital,Sadie Canning Drive,Leonora,WA,6438,08 9080 4300,-28.894319,121.337492,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30468
+470,Lightning Ridge Multi Purpose Service,Lot 25 Pandora Street,Lightning Ridge,NSW,2834,02 6829 9999,-29.429973,147.981869,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30469
+471,Linacre Private Hospital,12 Linacre Road,Hampton,Vic,3188,03 9598 9666,-37.942699,145.003259,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30470
+472,Lismore Hospital,60 Uralba Street,Lismore,NSW,2480,02 6621 8000,-28.809191,153.291045,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30471
+473,Lithgow Hospital,2 Col Drewe Drive,Lithgow,NSW,2790,02 6350 2300,-33.498751,150.127701,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30472
+474,Liverpool Day Surgery,105-119 Longstaff Avenue,Chipping Norton,NSW,2170,02 9601 4488,-33.926324,150.953704,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30473
+475,Liverpool Eye Surgery,1-11 Moore Street,Liverpool,NSW,2170,02 9734 7000,-33.922953,150.926861,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30474
+476,Liverpool Hospital,Lot 2 Elizabeth Street,Liverpool,NSW,2170,02 9828 3000,-33.919966,150.930776,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30475
+477,Lockhart Hospital,53-55 Hebden Street,Lockhart,NSW,2656,02 6930 7100,-35.222378,146.719064,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30476
+478,Logan Endoscopy Services,2-3/3276 Mt Lindesay Hwy,Browns Plains,Qld,4118,07 3809 2893,-27.659112,153.038795,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30477
+479,Logan Hospital,Corner of Armstrong and Loganlea Roads,Meadowbrook,Qld,4131,07 3299 8899,-27.670169,153.141732,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30478
+480,Long Jetty Health Care Centre,Wyong Road,Killarney Vale,NSW,2261,02 4336 7700,-33.369012,151.468538,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30479
+481,Longreach Hospital,Jabiru Street,Longreach,Qld,4730,07 4658 4700,-23.439033,144.260873,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30480
+482,Lorne Community Hospital,1 Albert Street,Lorne,Vic,3232,03 5289 4300,-38.545513,143.980743,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30481
+483,Lourdes Hospital Dubbo,80-110 Cobbora Road,Dubbo,NSW,2830,02 6841 8500,-32.238511,148.627361,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30482
+484,Loxton Hospital Complex,Drabsch Street,Loxton,SA,5333,08 8584 8555,-34.454695,140.564296,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30483
+485,Lyell McEwin Hospital,Haydown Road,Elizabeth Vale,SA,5112,08 8182 9000,-34.747607,138.664798,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30484
+486,Mackay Base Hospital,475 Bridge Road,Mackay,Qld,4740,07 4885 6000,-21.145792,149.155325,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30485
+487,Mackay Rehabilitation Hospital,57 Norris Road,North Mackay,Qld,4740,07 4942 3848,-21.113723,149.166763,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30486
+488,Mackay Specialist Day Hospital,85 Willetts Road,North Mackay,Qld,4740,07 4942 0777,-21.129471,149.16544,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30487
+489,Macksville Hospital,14-22 Boundary Street,Macksville,NSW,2447,02 6568 0666,-30.713725,152.919838,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30488
+490,Maclean Hospital,21 Union Street,Maclean,NSW,2463,02 6640 0111,-29.454219,153.201094,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30489
+491,Macquarie Hospital,1 Wicks Road,North Ryde,NSW,2113,02 9888 1222,-33.802312,151.124818,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30490
+492,Macquarie University Hospital,3 Technology Place,Macquarie University,NSW,2109,02 9812 3000,-33.773484,151.117877,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30491
+493,Madison Day Surgery,3/25-29 Hunter St,Hornsby,NSW,2077,02 8445 0633,-33.703145,151.100395,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30492
+494,Maitland Hospital,550-560 High Street,Maitland,NSW,2320,02 4939 2000,-32.726723,151.545887,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30493
+495,Maldon Hospital,Chapel Street,Maldon,Vic,3463,03 5475 2000,-36.992672,144.063677,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30494
+496,Maleny Hospital,17 Bean Street,Maleny,Qld,4552,07 5420 5000,-26.754893,152.844972,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30495
+497,Mallee Track Health & Community Service [Ouyen],28 Britt Street,Ouyen,Vic,3490,03 5092 1111,-35.074349,142.312345,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30496
+498,Mallee Track Health & Community Service [Sea Lake],33-43 McClelland Avenue,Sea Lake,Vic,3533,03 5070 2155,-35.500395,142.858003,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30497
+499,Malvern Private Hospital,5 Winton Vale Crescent,Malvern East,Vic,3145,03 9885 9621,-37.866954,145.060765,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30498
+500,Manangatang & District Hospital,37 Pioneer Street,Manangatang,Vic,3546,03 5035 1500,-35.050955,142.880512,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30499
+501,Manilla Hospital,143 Court Street,Manilla,NSW,2346,02 6785 4000,-30.745717,150.732249,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30500
+502,Manning Hospital,26 York Street,Taree,NSW,2430,02 6592 9111,-31.910418,152.454485,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30501
+503,Manningham Day Procedure Centre,"Suite 304, Level 3 Manningham Medical Centre 200 High Street",Templestowe Lower,Vic,3107,03 8850 0590,-37.773471,145.115662,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30502
+504,Mannum District Hospital,Parker Street,Mannum,SA,5238,08 8569 0200,-34.916481,139.308614,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30503
+505,Mansfield District Hospital,53 Highett Street,Mansfield,Vic,3722,03 5775 8800,-37.057574,146.086149,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30504
+506,Mareeba Hospital,21 Lloyd Street,Mareeba,Qld,4880,07 4092 9333,-16.987117,145.424468,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30505
+507,Margaret River Hospital,Farrelly Street,Margaret River,WA,6285,08 9757 0400,-33.952162,115.071229,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30506
+508,Maroondah Hospital [East Ringwood],Davey Drive,Ringwood East,Vic,3135,1300 342 255,-37.806884,145.254535,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30507
+509,Maryborough District Health Service [Dunolly],20 Havelock Street,Dunolly,Vic,3472,03 5468 1000,-36.855269,143.735139,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30508
+510,Maryborough District Health Service [Maryborough],75-87 Clarendon Street,Maryborough,Vic,3465,03 5461 0333,-37.044781,143.737692,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30509
+511,Maryborough Hospital,185 Walker Street,Maryborough,Qld,4650,07 4122 8222,-25.522131,152.689855,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30510
+512,Maryvale Private Hospital,286 Maryvale Road,Morwell,Vic,3840,03 5132 1200,-38.215028,146.418561,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30511
+513,Masada Private Hospital,26 Balaclava Road,St Kilda,Vic,3183,03 9038 1300,-37.869799,145.003096,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30512
+514,Mater Adult Hospital,Raymond Terrace,South Brisbane,Qld,4101,07 3163 8111,-27.485488,153.028103,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30513
+515,Mater Children's Private Brisbane,Raymond Terrace,South Brisbane,Qld,4101,07 3163 8111,-27.48485,153.027436,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30514
+516,Mater Hospital Pimlico,21 - 37 Fulham Road,Pimlico,Qld,4812,07 4727 4444,-19.288482,146.786528,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30515
+517,Mater Hospital Sydney,25 Rocklands Road,North Sydney,NSW,2060,02 9900 7300,-33.831152,151.201247,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30516
+518,Mater Misericordiae Day Unit,1 Wellington Street,Mackay,Qld,4740,07 4953 5990,-21.139073,149.181984,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30517
+519,Mater Misericordiae Hospital Bundaberg,313 Bourbong Street,Bundaberg,Qld,4670,07 4153 9539,-24.870766,152.330412,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30518
+520,Mater Misericordiae Hospital Gladstone,50 Rossella Street,Gladstone,Qld,4680,07 4971 3713,-23.850526,151.247469,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30519
+521,Mater Misericordiae Hospital Mackay,76 Willetts Road,Mackay,Qld,4740,07 4965 5666,-21.129416,149.166033,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30520
+522,Mater Misericordiae Hospital Rockhampton,Ward Street,Rockhampton,Qld,4700,07 4931 3313,-23.398033,150.497444,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30521
+523,Mater Mothers' Hospital,Raymond Terrace,South Brisbane,Qld,4101,07 3163 1918,-27.485436,153.027001,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30522
+524,Mater Mothers' Private Brisbane,Raymond Terrace,South Brisbane,Qld,4101,07 3163 8111,-27.485992,153.027747,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30523
+525,Mater Private Hospital Brisbane,301 Vulture Street,South Brisbane,Qld,4101,07 3163 8111,-27.483975,153.028777,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30524
+526,Mater Private Hospital Redland,Weippin Street,Cleveland,Qld,4163,07 3163 7444,-27.540811,153.25043,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30525
+527,Mater Women's and Children's Hospital Hyde Park,12 Oxford Street,Hyde Park,Qld,4812,07 4727 4444,-19.276512,146.798978,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30526
+528,May Shaw District Nursing Centre,37 Wellington Street,Swansea,Tas,7190,03 6257 9100,-42.127383,148.076788,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30527
+529,McLaren Vale & Districts War Memorial Hospital Inc,3 Aldersey Street,McLaren Vale,SA,5171,08 8323 6600,-35.221405,138.544962,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30528
+530,Meekatharra Hospital,Savage Street,Meekatharra,WA,6642,08 9981 0600,-26.591366,118.491861,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30529
+531,Melbourne MediBrain & MediSleep Centre,631 Inkerman Road,Caulfield North,Vic,3161,03 9504 8400,-37.869064,145.018774,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30530
+532,Melbourne Oral & Facial Surgery,"Level 12, 63 Exhibition Street",Melbourne,Vic,3000,03 9654 4844,-37.814488,144.971391,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30531
+533,Melbourne Private Hospital,Royal Parade,Parkville,Vic,3052,03 8341 3400,-37.798272,144.957025,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30532
+534,Melton Health,195-209 Barries Road,Melton West,Vic,3337,03 9747 7600,-37.686449,144.558284,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30533
+535,Menindee Health Service,Perry Street,Menindee,NSW,2879,08 8091 4209,-32.390335,142.414869,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30534
+536,Meningie and Districts Memorial Hospital and Health Services,2 South Terrace,Meningie,SA,5264,08 8575 2777,-35.693212,139.335565,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30535
+537,Mercy Care Hospital - Albury,550 Poole Street,Albury,NSW,2640,02 6042 1400,-36.069221,146.916764,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30536
+538,Mercy Care Hospital - Young,69 Demondrille Street,Young,NSW,2594,02 6382 8444,-34.321003,148.288693,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30537
+539,Mercy Health - O'Connell Family Centre,6 Mont Albert Road,Canterbury,Vic,3126,03 8416 7600,-37.816688,145.061729,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30538
+540,Mercy Hospital for Women,163 Studley Road,Heidelberg,Vic,3084,03 8458 4444,-37.756075,145.061008,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30539
+541,Merredin Health Service,Kitchener Road,Merredin,WA,6415,08 9081 3222,-31.485204,118.276491,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30540
+542,Merriwa Multi Purpose Service,MacKenzie Street,Merriwa,NSW,2329,02 6532 5000,-32.142714,150.361316,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30541
+543,Mersey Community Hospital,Bass Highway,Latrobe,Tas,7307,03 6478 5500,-41.229052,146.422445,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30542
+544,MetroRehab Hospital,275 Addison Road,Petersham,NSW,2049,02 8585 4900,-33.899441,151.155602,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30543
+545,Metwest Surgical,17 Hereward Highway,Blacktown,NSW,2148,02 9622 7667,-33.774236,150.912421,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30544
+546,Midlands Multi Purpose Centre,13 Church Street,Oatlands,Tas,7120,03 6254 5030,-42.299353,147.369522,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30545
+547,Mildura Base Hospital,Ontario Avenue,Mildura,Vic,3502,03 5022 3333,-34.185634,142.143348,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30546
+548,Mildura Private Hospital,220-228 Thirteenth Street,Mildura,Vic,3500,03 5022 2611,-34.18479,142.145705,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30547
+549,Miles Hospital,26 Colamba Street,Miles,Qld,4415,07 4628 5600,-26.658236,150.191023,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30548
+550,Millicent and Districts Hospital and Health Service,Mount Gambier Road,Millicent,SA,5280,08 8733 4755,-37.598354,140.358924,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30549
+551,Millmerran Hospital,50 Commens Street,Millmerran,Qld,4357,07 4695 3111,-27.878928,151.26267,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30550
+552,Milton Ulladulla Hospital,104-106 Princes Highway,Milton,NSW,2538,02 4455 1333,-35.317313,150.438918,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30551
+553,Miranda Eye Surgical Centre,Suite 4/16-22 Willock Avenue,Miranda,NSW,2228,02 9540 4586,-34.03244,151.101631,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30552
+554,Mitcham Private Hospital,27 Doncaster East Road,Mitcham,Vic,3132,03 9210 3222,-37.810436,145.194808,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30553
+555,Mitchell Hospital,95 Ann Street,Mitchell,Qld,4465,07 4623 1277,-26.489913,147.972493,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30554
+556,Modbury Hospital,41-69 Smart Road,Modbury,SA,5092,08 8161 2000,-34.834166,138.690505,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30555
+557,Mogo Day Surgery,2-4 Charles Street,Mogo,NSW,2536,02 4474 3774,-35.782893,150.14387,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30556
+558,Molong Health Service,King Street,Molong,NSW,2866,02 6392 3300,-33.087622,148.859724,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30557
+559,Mona Vale Hospital,Coronation Street,Mona Vale,NSW,2103,02 9998 0333,-33.685353,151.306618,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30558
+560,Monash Medical Centre [Clayton],246 Clayton Road,Clayton,Vic,3168,03 9594 6666,-37.921176,145.123128,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30559
+561,Monash Medical Centre [Moorabbin],823-865 Centre Road,East Bentleigh,Vic,3165,03 9928 8111,-37.920697,145.063197,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30560
+562,Monto Hospital,35 Flinders Street,Monto,Qld,4630,07 4166 9300,-24.866424,151.112501,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30561
+563,Montserrat Day Hospital Gaythorne,383-391 Samford Road,Gaythorne,Qld,4051,07 3550 3550,-27.417069,152.982237,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30562
+564,Moora Hospital,Dandaragan Road,Moora,WA,6510,08 9651 0222,-30.639557,116.001119,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30563
+565,Moranbah Hospital,Elliott Street,Moranbah,Qld,4744,07 4941 4600,-22.002125,148.055287,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30564
+566,Morawa Health Service,Caulfield Road,Morawa,WA,6623,08 9971 0200,-29.212897,116.002986,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30565
+567,Moree Hospital,Alice Street,Moree,NSW,2400,02 6757 0000,-29.470678,149.839648,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30566
+568,Morisset Hospital,Dora Street,Morisset,NSW,2264,02 4973 0222,-33.128549,151.512816,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30567
+569,Mornington Island Hospital,Lardyl Street,Mornington Island,Qld,4871,07 4745 7209,-16.665534,139.178559,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30568
+570,Moruya Hospital,2-10 River Street,Moruya,NSW,2537,02 4474 2666,-35.904137,150.070774,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30569
+571,Mossman Hospital,9 Hospital Street,Mossman,Qld,4873,07 4084 1200,-16.464031,145.368025,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30570
+572,Mount Barker District Soldiers' Memorial Hospital,Wellington Road,Mount Barker,SA,5251,08 8393 1777,-35.081813,138.870277,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30571
+573,Mount Druitt Hospital,75 Railway Street,Mount Druitt,NSW,2770,02 9881 1555,-33.765929,150.829646,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30572
+574,Mount Gambier and Districts Health Service,276-300 Wehl Street North,Mount Gambier,SA,5290,08 8721 1200,-37.805003,140.786662,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30573
+575,Mount Gambier Private Hospital,276-300 Wehl Street North,Mount Gambier,SA,5290,08 8721 1412,-37.805952,140.786887,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30574
+576,Mount Hospital,150 Mounts Bay Road,West Perth,WA,6005,08 9481 1822,-31.958534,115.845401,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30575
+577,Mount Isa Base Hospital,30 Camooweal Street,Mount Isa,Qld,4825,07 4744 4444,-20.730919,139.493815,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30576
+578,Mount Morgan Hospital,Black Street,Mount Morgan,Qld,4714,07 4912 5100,-23.645094,150.392639,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30577
+579,Mount Pleasant District Hospital,28 Hospital Road,Mount Pleasant,SA,5235,08 8568 0000,-34.773855,139.054212,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30578
+580,Mount Wilga Private Hospital,66 Rosamond Street,Hornsby,NSW,2077,02 9847 5000,-33.692829,151.092939,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30579
+581,Moura Hospital,14 Nott Street,Moura,Qld,4718,07 4997 2900,-24.575948,149.975999,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30580
+582,Moyne Health Services [Port Fairy],30-36 Villiers Street,Port Fairy,Vic,3284,03 5568 0100,-38.381599,142.227523,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30581
+583,Mudgee Health Service,Meares Street,Mudgee,NSW,2850,02 6378 6222,-32.603229,149.588179,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30582
+584,Mullewa Health Service,Elder Street,Mullewa,WA,6630,08 9961 6200,-28.535991,115.510017,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30583
+585,Mundubbera Hospital,96 Leichhardt Street,Mundubbera,Qld,4626,07 4165 5200,-25.587619,151.293282,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30584
+586,Mungindi Hospital,Barwon Street,Mungindi,Qld,2406,02 6705 6100,-28.972817,148.989061,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30585
+587,Murgon Hospital,Coronation Drive,Murgon,Qld,4605,07 4169 9600,-26.239075,151.950702,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30586
+588,Murray Bridge Soldiers' Memorial Hospital,96 Swanport Road,Murray Bridge,SA,5253,08 8535 6777,-35.128911,139.280462,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30587
+589,Murray District Hospital,McKay Street,Pinjarra,WA,6208,08 9531 7222,-32.639709,115.871589,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30588
+590,Murray Valley Private Hospital,Nordsvan Drive,Wodonga,Vic,3690,02 6055 3100,-36.138419,146.876478,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30589
+591,Murrumburrah-Harden Hospital,54 Swift Street,Harden,NSW,2587,02 6386 2200,-34.555254,148.360186,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30590
+592,Murwillumbah Hospital,8 Ewing Street,Murwillumbah,NSW,2484,02 6672 1822,-28.323417,153.400811,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30591
+593,Muswellbrook Hospital,36 Brentwood Street,Muswellbrook,NSW,2333,02 6542 2000,-32.264545,150.900263,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30592
+594,Nambour Day Surgery,115 Howard Street,Nambour,Qld,4560,07 5476 3700,-26.626321,152.96409,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30593
+595,Nambour General Hospital,Hospital Road,Nambour,Qld,4560,07 5470 6600,-26.621659,152.952249,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30594
+596,Nambour Selangor Private Hospital,62 Netherton Street,Nambour,Qld,4560,07 5459 7444,-26.618265,152.955949,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30595
+597,Nanango Hospital,135 Brisbane Street,Nanango,Qld,4615,07 4171 6700,-26.666405,152.007833,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30596
+598,Nannup Hospital,Carey Street,Nannup,WA,6275,08 9756 3800,-33.982797,115.76723,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30597
+599,Naracoorte Health Service,101 Jenkins Terrace,Naracoorte,SA,5271,08 8762 8100,-36.966849,140.743693,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30598
+600,Narembeen Memorial Hospital,Ada Street,Narembeen,WA,6369,08 9064 6222,-32.061618,118.391289,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30599
+601,Narrabri Hospital,11 Cameron Street,Narrabri,NSW,2390,02 6799 2800,-30.325869,149.777108,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30600
+602,Narrandera Hospital,54 Adams Street,Narrandera,NSW,2700,02 6951 0200,-34.743181,146.547661,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30601
+603,Narrogin Hospital,Williams Road,Narrogin,WA,6312,08 9881 0333,-32.937341,117.168459,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30602
+604,Narromine Health Service,128 Cathundral Street,Narromine,NSW,2821,02 6889 9600,-32.24261,148.239201,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30603
+605,Nathalia District Hospital,36-44 McDonnell Street,Nathalia,Vic,3638,03 5866 9444,-36.054754,145.204324,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30604
+606,National Capital Private Hospital,Corner of Gilmore Crescent and Hospital Road,Garran,ACT,2605,02 6222 6666,-35.344872,149.101944,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30605
+607,Nepean Hospital,Derby Street,Kingswood,NSW,2747,02 4734 2000,-33.759865,150.712627,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30606
+608,Nepean Private Hospital,1-9 Barber Avenue,Kingswood,NSW,2747,02 4732 7333,-33.759775,150.715206,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30607
+609,Neringah Hospital,4-12 Neringah Avenue,Wahroonga,NSW,2076,02 9488 2200,-33.717856,151.114556,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30608
+610,New Farm Clinic,22 Sargent Street,New Farm,Qld,4005,07 3254 9100,-27.473623,153.045879,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30609
+611,New Norfolk District Hospital,3 Richmond Street,New Norfolk,Tas,7140,03 6166 1300,-42.781315,147.059179,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30610
+612,Newcastle Private Hospital,14 Lookout Road,New Lambton Heights,NSW,2305,02 4941 8400,-32.922537,151.698371,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30611
+613,Newman Hospital,54 Mindarra Drive,Newman,WA,6753,08 9175 8333,-23.354824,119.736503,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30612
+614,"Next Step Drug And Alcohol Services, East Perth",32 Moore Street,East Perth,WA,6004,08 9219 1919,-31.953405,115.869171,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30613
+615,Nimbin Multi Purpose Service,35 Cullen Street,Nimbin,NSW,2480,02 6689 1400,-28.597371,153.223185,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30614
+616,Noarlunga Hospital,Alexander Kelly Drive,Noarlunga Centre,SA,5168,08 8384 9222,-35.139879,138.500218,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30615
+617,Noosa Hospital,111 Goodchap Street,Noosaville,Qld,4566,07 5455 9200,-26.403209,153.046309,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30616
+618,Normanton Hospital,Brown Street,Normanton,Qld,4890,07 4745 2100,-17.678739,141.086425,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30617
+619,Norseman Hospital,Talbot Street,Norseman,WA,6443,08 9039 9200,-32.198566,121.767663,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30618
+620,North East Soldiers' Memorial Hospital and Community Service Centre (Scottsdale Hospital),28 Fosters Road,Scottsdale,Tas,7260,03 6778 8522,-41.154294,147.521324,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30619
+621,North Eastern Rehabilitation Centre,134-144 Ford Street,Ivanhoe,Vic,3079,03 9474 8900,-37.763424,145.031344,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30620
+622,North Lakes Day Hospital,7 Endeavour Boulevard,North Lakes,Qld,4509,07 3833 6755,-27.238984,153.021947,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30621
+623,North Midlands Health Service,Thomas Street,Three Springs,WA,6519,08 9954 3200,-29.534221,115.759184,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30622
+624,North Queensland Day Surgical Centre,119 Kings Road,Pimlico,Qld,4812,07 4725 2677,-19.279643,146.791468,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30623
+625,North Shore Private Hospital,3 Westbourne Street,St Leonards,NSW,2065,02 8425 3000,-33.820622,151.189159,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30624
+626,North West Private Hospital,137 Flockton Street,Everton Park,Qld,4053,07 3246 3133,-27.393992,152.992705,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30625
+627,North West Regional Hospital,23 Brickport Road,Burnie,Tas,7320,03 6430 6666,-41.048385,145.880842,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30626
+628,Northam Hospital,Robinson Street,Northam,WA,6401,08 9690 1300,-31.649582,116.657681,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30627
+629,Northampton Kalbarri Health Service,Stephen Street,Northampton,WA,6535,08 9934 0200,-28.351194,114.635119,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30628
+630,Northeast Health Wangaratta,35-47 Green Street,Wangaratta,Vic,3677,03 5722 5111,-36.354035,146.313889,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30629
+631,Northern Beaches Hospital,105 Frenchs Forest Road (West),Frenchs Forest,NSW,2086,02 9105 5000,-33.750646,151.23377,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30630
+632,Northern Yorke Peninsula Health Service (Wallaroo),1 Ernest Terrace,Wallaroo,SA,5556,08 8823 0200,-33.927738,137.636783,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30631
+633,Northpark Private Hospital,Corner of Plenty and Greenhills Roads,Bundoora,Vic,3083,03 9468 0100,-37.691208,145.061631,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30632
+634,Northside Clinic,2 Greenwich Road,Greenwich,NSW,2065,02 9433 3555,-33.825156,151.188367,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30633
+635,Northside Cremorne Clinic,3 Harrison Street,Cremorne,NSW,2090,02 9909 8577,-33.833425,151.222886,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30634
+636,Northside Macarthur Clinic,92-96 Dumaresq Street,Campbelltown,NSW,2560,02 4640 5555,-34.071999,150.816958,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30635
+637,Northside West Clinic,23-27 Lytton Street,Wentworthville,NSW,2145,02 8833 2222,-33.811188,150.974575,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30636
+638,Norwest Private Hospital,11 Norbrik Drive,Bella Vista,NSW,2153,02 8882 8882,-33.744941,150.953608,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30637
+639,Nowra Private Hospital,Weeroona Place,Nowra,NSW,2541,02 4424 4700,-34.893534,150.606551,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30638
+640,Numurkah & District Health Service,2 Katamatite Road,Numurkah,Vic,3636,03 5862 0555,-36.100001,145.443695,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30639
+641,Nyngan Multi Purpose Service,Hospital Road,Nyngan,NSW,2825,02 6835 1700,-31.560024,147.208772,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30640
+642,Oakey Hospital,Corner Beale and Fitzpatrick Streets,Oakey,Qld,4401,07 4691 4888,-27.424079,151.719088,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30641
+643,Oberon Multi Purpose Service,67-73 North Street,Oberon,NSW,2787,02 6336 7200,-33.705249,149.853596,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30642
+644,Omeo District Health,12 Easton Street,Omeo,Vic,3898,03 5159 0100,-37.098142,147.597321,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30643
+645,Onslow Hospital,Second Avenue,Onslow,WA,6710,08 9184 3200,-21.643238,115.115389,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30644
+646,Orange Day Surgery Centre,60-62 McNamara Street,Orange,NSW,2800,02 6360 3699,-33.283027,149.102737,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30645
+647,Orange Health Service,1530 Forest Road,Orange,NSW,2800,02 6369 3000,-33.317316,149.093953,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30646
+648,Orbost Regional Health,104 Boundary Road,Orbost,Vic,3888,03 5154 6666,-37.701844,148.464957,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30647
+649,Oromax Day Surgery,"Level 3, 1 Hutt Street",Adelaide,SA,5000,08 8232 3525,-34.925331,138.611441,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30648
+650,Orroroo and District Health Service,Pekina Road,Orroroo,SA,5431,08 8658 1023,-32.738519,138.607206,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30649
+651,Orygen Inpatient Unit,35 Mavis Street,Footscray,Vic,3011,03 8345 7550,-37.791926,144.886617,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30650
+652,Osborne Park Hospital,Osborne Place,Stirling,WA,6021,08 9346 8000,-31.885976,115.804717,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30651
+653,Otway Health & Community Services [Apollo Bay],37-43 Mclachlan Street,Apollo Bay,Vic,3233,03 5237 8500,-38.753853,143.664264,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30652
+654,Oxford Day Surgery and Dermatology,"Suite 4, 1st Floor, 416-418 Oxford Street",Mount Hawthorn,WA,6016,08 6140 1000,-31.922727,115.841536,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30653
+655,Oxford Day Surgery Centre,54 Oxford Terrace,Unley,SA,5061,08 8373 1755,-34.949659,138.608408,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30654
+656,Pacific Private Day Hospital,123 Nerang Street,Southport,Qld,4215,07 5556 6222,-27.970407,153.407829,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30655
+657,Pambula Hospital,Merimbola Street,Pambula,NSW,2549,02 6495 8200,-36.926316,149.879232,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30656
+658,Paraburdoo Hospital,Lot 608 Rocklea Road,Paraburdoo,WA,6754,08 9159 8222,-23.203031,117.670633,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30657
+659,Parkside Cosmetic Surgery,7 Unley Road,Parkside,SA,5063,08 8357 0300,-34.941936,138.606952,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30658
+660,Parkwynd Private Hospital,137 East Terrace,Adelaide,SA,5000,08 8223 3294,-34.928514,138.614276,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30659
+661,Peak Hill Multipurpose Service,111 Newell Highway,Peak Hill,NSW,2869,02 6861 7100,-32.735907,148.199615,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30660
+662,Peel Health Campus,110 Lakes Road,Mandurah,WA,6210,08 9531 8000,-32.532573,115.763504,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30661
+663,Pemberton Hospital,Railway Cresent,Pemberton,WA,6260,08 9776 4000,-34.444875,116.031954,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30662
+664,Peninsula Private Hospital Queensland,Corner of George and Florence Streets,Kippa-Ring,Qld,4021,07 3883 9300,-27.230696,153.093087,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30663
+665,Peninsula Private Hospital Victoria,525 McClelland Drive,Frankston,Vic,3199,03 9788 3466,-38.157557,145.169552,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30664
+666,Pennant Hills Day Surgery,361 Pennant Hills Rd,Pennant Hills,NSW,2120,02 9481 0048,-33.738295,151.074354,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30665
+667,Penola War Memorial Hospital,18 Church Street,Penola,SA,5277,08 8737 2311,-37.382873,140.836465,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30666
+668,Perfect Vision Day Surgery,3/25-29 Hunter Street,Hornsby,NSW,2077,131340,-33.70323,151.100259,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30667
+669,Perth Children’s Hospital,15 Hospital Avenue,Nedlands,WA,6009,08 6456 2222,-31.969503,115.817165,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30668
+670,Perth Clinic,27-29 Havelock Street,West Perth,WA,6005,08 9481 4888,-31.950874,115.843266,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30669
+671,Peter MacCallum Cancer Centre,305 Grattan Street,Melbourne,Vic,3000,03 9656 1111,-37.80001,144.956607,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30670
+672,Peterborough Soldiers' Memorial Hospital,23 Hurlstone Street,Peterborough,SA,5422,08 8651 0400,-32.980786,138.830344,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30671
+673,Pindara Day Procedure Centre,13 Carrara Street,Benowa,Qld,4217,07 5588 9588,-28.008508,153.39373,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30672
+674,Pindara Private Hospital,Allchurch Avenue,Benowa,Qld,4217,07 5588 9888,-28.007076,153.393569,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30673
+675,Pine Rivers Private Hospital,34 Dixon Street,Strathpine,Qld,4500,07 3881 7222,-27.308361,152.994832,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30674
+676,Pingelly Health Centre,Corner of Somerset St and Brown St,Pingelly,WA,6308,08 9887 2222,-32.533042,117.089789,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30675
+677,Pinnaroo Soldiers' Memorial Hospital,Bundey Terrace,Pinnaroo,SA,5304,08 8577 9222,-35.257499,140.902447,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30676
+678,Plantagenet Hospital,Langton Road,Mount Barker,WA,6324,08 9892 1222,-34.626092,117.654561,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30677
+679,Port Augusta Hospital and Regional Health Services,71 Hospital Road,Port Augusta,SA,5700,08 8668 7500,-32.509417,137.776279,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30678
+680,Port Broughton and District Hospital and Health Service,Bay Street,Port Broughton,SA,5522,08 8635 2200,-33.601287,137.934379,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30679
+681,Port Kembla Hospital,89-91 Cowper Street,Warrawong,NSW,2502,02 4223 8000,-34.485923,150.881778,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30680
+682,Port Lincoln Health Service,39 Oxford Terrace,Port Lincoln,SA,5606,08 8683 2200,-34.72408,135.850201,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30681
+683,Port Macquarie Hospital,1-31 Wrights Road,Port Macquarie,NSW,2444,02 6581 2000,-31.452336,152.878304,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30682
+684,Port Macquarie Private Hospital,Lake Road,Port Macquarie,NSW,2444,02 6583 5655,-31.442073,152.909375,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30683
+685,Port Pirie Regional Health Service,Alexander Street,Port Pirie,SA,5540,08 8638 4500,-33.177339,138.005533,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30684
+686,Portland District Health,Bentinck Street,Portland,Vic,3305,03 5521 0333,-38.340713,141.606087,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30685
+687,Portland Hospital,20 Green Street,Portland,NSW,2847,02 6359 2666,-33.358415,149.978565,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30686
+688,Pregnancy Advisory Centre,21 Belmore Terrace,Woodville Park,SA,5011,08 8243 3999,-34.87999,138.542962,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30687
+689,Prince of Wales Hospital,320-346 Barker Street,Randwick,NSW,2031,02 9382 2222,-33.918492,151.23938,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30688
+690,Prince of Wales Private Hospital,Barker Street,Randwick,NSW,2031,02 9650 4000,-33.918492,151.238659,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30689
+691,Princess Alexandra Hospital,199 Ipswich Road,Woolloongabba,Qld,4102,07 3176 2111,-27.499402,153.033542,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30690
+692,Proserpine Hospital,26-34 Taylor Street,Proserpine,Qld,4800,07 4813 9400,-20.400017,148.584976,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30691
+693,QEII Family Centre,129 Carruthers Street,Curtin,ACT,2605,02 6205 2333,-35.323284,149.079172,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30692
+694,Quairading Hospital,Harris Street,Quairading,WA,6383,08 9645 1100,-32.014481,117.402627,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30693
+695,Queanbeyan Hospital,16 Erin Street,Queanbeyan,NSW,2620,02 6150 7000,-35.347685,149.232294,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30694
+696,Queen Elizabeth Centre [Noble Park],53 Thomas Street,Noble Park,Vic,3174,03 9549 2777,-37.972053,145.178285,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30695
+697,Queen Elizabeth II Jubilee Hospital,Corner of Kessels and Troughton Roads,Coopers Plains,Qld,4108,07 3275 6111,-27.559673,153.048852,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30696
+698,Queensland Children’s Hospital,501 Stanley Street,South Brisbane,Qld,4101,07 3068 1111,-27.484305,153.026717,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30697
+699,Queensland Eye Hospital,55 Little Edward Street,Spring Hill,Qld,4000,07 3236 9844,-27.4613,153.024547,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30698
+700,Quilpie Hospital,30 Gyrica Street,Quilpie,Qld,4480,07 4656 0100,-26.616519,144.274617,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30699
+701,Quirindi Hospital,Nowland Street,Quirindi,NSW,2343,02 6746 0200,-31.500345,150.676621,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30700
+702,Quorn Health Service,Hospital Road,Quorn,SA,5433,08 8648 7888,-32.350917,138.038138,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30701
+703,Radiation Oncology Institute - Gosford,41 William Street,Gosford,NSW,2250,02 4349 8000,-33.427046,151.345848,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30702
+704,Radiation Oncology Institute - The Sydney Adventist Hospital Wahroonga,185 Fox Valley Road,Wahroonga,NSW,2076,02 9487 9300,-33.733389,151.098606,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30703
+705,Ravensthorpe Health Centre,Martin Street,Ravensthorpe,WA,6346,08 9838 2211,-33.584918,120.045461,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30704
+706,Redcliffe Hospital,Anzac Avenue,Redcliffe,Qld,4020,07 3883 7777,-27.228269,153.105245,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30705
+707,Redland Hospital,Weippin Street,Cleveland,Qld,4163,07 3488 3111,-27.539992,153.251379,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30706
+708,Renmark Paringa District Hospital,Ral Ral Avenue,Renmark,SA,5341,08 8580 4100,-34.164836,140.745205,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30707
+709,Richmond Hospital,Gallagher Drive,Richmond,Qld,4822,07 4741 6100,-20.738726,143.150471,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30708
+710,Ringwood Private Hospital,36 Mt Dandenong Road,Ringwood,Vic,3135,03 8804 4000,-37.811523,145.243629,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30709
+711,Rivercity Private Hospital,401 Milton Road,Auchenflower,Qld,4066,,-27.473491,152.995132,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30710
+712,Riverina Day Surgery,2-8 Meurant Avenue,Wagga Wagga,NSW,2650,02 6925 6256,-35.120903,147.353809,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30711
+713,Riverland General Hospital,Maddern Street,Berri,SA,5343,08 8580 2400,-34.276054,140.600984,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30712
+714,Riverlands Drug and Alcohol Centre,Hunter Street,Lismore,NSW,2480,02 6620 7600,-28.80834,153.29112,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30713
+715,Riverton District Soldiers' Memorial Hospital,23 Moorhouse Terrace,Riverton,SA,5412,08 8847 2300,-34.160353,138.742657,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30714
+716,Robina Hospital,2 Bayberry Lane,Robina,Qld,4226,07 5668 6000,-28.072198,153.377284,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30715
+717,Robina Procedure Centre,"4110, Level 3, Robina Town Centre",Robina,Qld,4230,07 5592 7999,-28.077603,153.3843,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30716
+718,Robinvale District Health Services,128-132 Latje Road,Robinvale,Vic,3549,03 5051 8111,-34.584146,142.781367,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30717
+719,Rochester & Elmore District Health Service,1 Pascoe Street,Rochester,Vic,3561,03 5484 4400,-36.366579,144.697751,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30718
+720,Rockhampton Hospital,Canning Street,Rockhampton,Qld,4700,07 4920 6211,-23.379525,150.494542,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30719
+721,Rockingham General Hospital,Elanora Drive,Cooloongup,WA,6168,08 9599 4000,-32.291359,115.770899,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30720
+722,Roebourne Hospital,42-44 Hampton Street,Roebourne,WA,6718,08 9182 0200,-20.776317,117.143955,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30721
+723,Roma Hospital,197-234 Mcdowall Street,Roma,Qld,4455,07 4624 2700,-26.568828,148.775846,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30722
+724,Rosebud Hospital,1527 Point Nepean Road,Rosebud,Vic,3939,03 5986 0666,-38.362168,144.884899,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30723
+725,Rosebud SurgiCentre,1537 Point Nepean Road,Rosebud West,Vic,3940,03 5986 0500,-38.361748,144.883554,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30724
+726,Roxby Downs Health Service,16-28 Burgoyne Street,Roxby Downs,SA,5725,08 8671 9020,-30.562778,136.894261,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30725
+727,Royal Adelaide Hospital,Port Road,Adelaide,SA,5000,08 7074 0000,-34.920973,138.587393,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30726
+728,Royal Brisbane & Women's Hospital,Butterfield Street,Herston,Qld,4006,07 3646 8111,-27.446972,153.027888,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30727
+729,Royal Children's Hospital [Parkville],50 Flemington Road,Parkville,Vic,3052,03 9345 5522,-37.794997,144.950859,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30728
+730,Royal Darwin Hospital,Rocklands Drive,Tiwi,NT,810,08 8922 8888,-12.355806,130.881789,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30729
+731,Royal Hobart Hospital,48 Liverpool Street,Hobart,Tas,7000,03 6222 8308,-42.880028,147.330136,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30730
+732,Royal Hospital for Women,Barker Street,Randwick,NSW,2031,02 9382 6111,-33.919035,151.237938,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30731
+733,Royal Melbourne Hospital [Parkville],300 Grattan Street,Parkville,Vic,3050,03 9342 7000,-37.799259,144.956864,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30732
+734,Royal Melbourne Hospital- Royal Park Campus,34-54 Poplar Road,Parkville,Vic,3052,03 8387 2000,-37.778813,144.948049,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30733
+735,Royal North Shore Hospital,1 Reserve Road,St Leonards,NSW,2065,02 9926 7111,-33.821312,151.189735,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30734
+736,Royal Perth Hospital Wellington Street Campus,Wellington Street,Perth,WA,6000,08 9224 2244,-31.954242,115.8663,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30735
+737,Royal Prince Alfred Hospital,50 Missenden Road,Camperdown,NSW,2050,02 9515 6111,-33.889251,151.182926,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30736
+738,Royal Prince Alfred Institute of Rheumatology & Orthopaedics,57 - 59 Missenden Road,Camperdown,NSW,2050,,-33.88828,151.180707,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30737
+739,Royal Rehabilitation Hospital,227-259 Morrison Road,Ryde,NSW,2112,02 9807 1144,-33.821772,151.107845,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30738
+740,Royal Talbot Rehabilitation Centre [Kew],1 Yarra Boulevard,Kew,Vic,3101,03 9490 7500,-37.789522,145.023715,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30739
+741,Royal Women's Hospital [Parkville],20 Flemington Road,Parkville,Vic,3052,03 8345 2000,-37.798772,144.954825,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30740
+742,Rural Northwest Health [Hopetoun],12 Mitchell Place,Hopetoun,Vic,3396,03 5083 2000,-35.732201,142.366411,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30741
+743,Rural Northwest Health [Warracknabeal],18 Dimboola Road,Warracknabeal,Vic,3393,03 5396 1200,-36.252614,142.381609,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30742
+744,Ryde Hospital,Denistone Road,Eastwood,NSW,2122,02 9858 7888,-33.795482,151.089756,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30743
+745,Rylstone Multi Purpose Service,24 Fitzgerald Street,Rylstone,NSW,2849,02 6357 8100,-32.804085,149.975652,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30744
+746,Sacred Heart Hospice,170 Darlinghurst Road,Darlinghurst,NSW,2010,02 8382 9444,-33.880525,151.219237,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30745
+747,San Day Surgery Hornsby,1A Northcote Road,Hornsby,NSW,2077,02 9477 8888,-33.701961,151.110612,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30746
+748,Sandringham Hospital,193 Bluff Road,Sandringham,Vic,3191,03 9076 1000,-37.961049,145.018157,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30747
+749,Sarina Hospital,1 Hospital Street,Sarina,Qld,4737,07 4943 8777,-21.421151,149.210268,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30748
+750,Scone Hospital,Stafford Street,Scone,NSW,2337,02 6540 2100,-32.051525,150.876864,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30749
+751,Selby Authorised Lodge,6 Lemnos Street,Shenton Park,WA,6008,,-31.958204,115.80199,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30750
+752,Seymour District Memorial Hospital,1 Brettoneaux Street,Seymour,Vic,3660,03 5793 6100,-37.018384,145.138771,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30751
+753,Shellharbour Hospital,15-17 Madigan Boulevarde,Mount Warrigal,NSW,2528,02 4295 2500,-34.558987,150.840947,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30752
+754,Shepparton Private Hospital,20 Fitzgerald Street,Shepparton,Vic,3630,03 5832 1200,-36.359183,145.410825,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30753
+755,Shoalhaven Hospital,2 Shoalhaven Street,Nowra,NSW,2541,02 4421 3111,-34.868767,150.595736,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30754
+756,Short Street Day Surgery,1/2 Short Street,Southport,Qld,4215,07 5528 4011,-27.970813,153.416975,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30755
+757,Singleton Hospital,Lot 20 Dangar Road,Singleton,NSW,2330,02 6571 9222,-32.567087,151.185736,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30756
+758,Sir Charles Gairdner Hospital,Hospital Avenue,Nedlands,WA,6009,08 6457 3333,-31.968291,115.815467,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30757
+759,Smithton District Hospital,74 Brittons Road,Smithton,Tas,7330,03 6478 9520,-40.850159,145.129609,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30758
+760,Snowtown Hospital and Health Service,South Terrace,Snowtown,SA,5520,08 8865 0100,-33.786936,138.212768,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30759
+761,South Burnett Private Hospital,31 Markwell Street,Kingaroy,Qld,4610,07 4162 1444,-26.543051,151.836891,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30760
+762,South Coast District Hospital,Bay Road,Victor Harbor,SA,5211,08 8552 0500,-35.561171,138.606447,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30761
+763,South East Regional Hospital,4 Virginia Drive,Bega,NSW,2550,02 6491 9999,-36.68905,149.858549,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30762
+764,South Eastern Private,Corner of Princes Highway and Heatherton Road,Noble Park,Vic,3174,03 9549 6655,-37.966243,145.191922,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30763
+765,South Gippsland Hospital [Foster],87 Station Road,Foster,Vic,3960,03 5683 9777,-38.658319,146.207031,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30764
+766,South Pacific Private,24 Beach Street,Curl Curl,NSW,2096,02 9905 3667,-33.775143,151.291425,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30765
+767,South Perth Hospital,76 South Terrace,South Perth,WA,6952,08 9367 0222,-31.988465,115.862816,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30766
+768,South West Healthcare [Camperdown],9 Robinson Street,Camperdown,Vic,3260,03 5593 7300,-38.237101,143.137714,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30767
+769,South West Healthcare [Warrnambool],Ryot Street,Warrnambool,Vic,3280,03 5563 1666,-38.380085,142.472977,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30768
+770,Southern Cross Hospital,Coolgardie Road (Great Eastern Highway),Southern Cross,WA,6426,08 9081 2222,-31.230709,119.337829,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30769
+771,Southern Highlands Private Hospital,93-95 Bowral Street,Bowral,NSW,2576,02 4862 9400,-34.484223,150.422882,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30770
+772,Southern Yorke Peninsula Health Service (Yorketown),19 Waterloo Bay Road,Yorketown,SA,5576,08 8852 1200,-35.020989,137.604939,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30771
+773,Southport Day Hospital,"Level 1, 98 Marine Parade",Southport,Qld,4215,07 5555 7800,-27.96245,153.413046,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30772
+774,Southside Endoscopy Centre,66 Bryants Road,Loganholme,Qld,4129,07 3801 2220,-27.662981,153.17828,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30773
+775,Spendelove Private Hospital,24 Spendelove Avenue,Southport,Qld,4215,07 5503 0911,-27.973494,153.4084,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30774
+776,SPORTSMED SA Hospital & Day Surgery,32 Payneham Road,Stepney,SA,5069,08 8130 1100,-34.913521,138.624987,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30775
+777,Springsure Hospital,Woodbine Street,Springsure,Qld,4722,07 4984 1200,-24.120122,148.084762,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30776
+778,Springwood Hospital,7-9 Huntley Grange Road,Springwood,NSW,2777,02 4751 0300,-33.690486,150.571129,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30777
+779,St Andrew's Hospital,350 South Terrace,Adelaide,SA,5000,08 8408 2111,-34.934224,138.614963,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30778
+780,St Andrew's Ipswich Private Hospital,Corner of Roderick and Pring Streets,Ipswich,Qld,4305,07 3816 9999,-27.618799,152.763079,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30779
+781,St Andrew's Toowoomba Hospital,280 North Street,Toowoomba,Qld,4350,07 4646 3000,-27.539156,151.933665,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30780
+782,St Andrew's War Memorial Hospital,457 Wickham Terrace,Spring Hill,Qld,4000,07 3834 4444,-27.461224,153.021011,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30781
+783,St George Hospital NSW,30 Gray Street,Kogarah,NSW,2217,02 9113 1111,-33.966969,151.133776,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30782
+784,St George Hospital Qld,1 Victoria Street,St George,Qld,4487,07 4620 2222,-28.0272,148.592683,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30783
+785,St George Private Hospital,1 South Street,Kogarah,NSW,2217,02 9598 5555,-33.966952,151.136055,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30784
+786,St George's Health Service- Aged Care,283 Cotham Road,Kew,Vic,3101,03 9816 0444,-37.809085,145.052585,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30785
+787,St Helens District Hospital,Circassion Street,St Helens,Tas,7216,03 6387 5570,-41.323159,148.248814,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30786
+788,St Helen's Private Hospital,186 Macquarie Street,Hobart,Tas,7000,03 6221 6444,-42.886839,147.325791,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30787
+789,St John of God Ballarat Hospital,101 Drummond Street North,Ballarat,Vic,3350,03 5320 2111,-37.558544,143.847406,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30788
+790,St John of God Bendigo Hospital,133-145 Lily Street,Bendigo,Vic,3550,03 5434 3434,-36.762043,144.263298,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30789
+791,St John of God Berwick Hospital,75 Kangan Drive,Berwick,Vic,3806,03 8784 5000,-38.034499,145.344974,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30790
+792,St John of God Bunbury Hospital,Corner of Roberston Drive and Bussell Highway,Bunbury,WA,6230,08 9722 1600,-33.365947,115.648869,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30791
+793,St John of God Burwood Hospital,13 Grantham Street,Burwood,NSW,2134,02 9715 9200,-33.869832,151.100538,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30792
+794,St John of God Frankston Rehabilitation Hospital,255-265 Cranbourne Road,Frankston,Vic,3199,03 9788 3333,-38.153035,145.155926,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30793
+795,St John of God Geelong Hospital,80 Myers Street,Geelong,Vic,3220,03 5226 8888,-38.151567,144.357679,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30794
+796,St John of God Geraldton Hospital,12 Hermitage Street,Geraldton,WA,6530,08 9965 8888,-28.784383,114.616439,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30795
+797,St John of God Midland Private Hospital,1 Clayton Street,Midland,WA,6056,08 9462 4500,-31.894611,116.00748,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30796
+798,St John of God Midland Public Hospital,1 Clayton Street,Midland,WA,6056,08 9462 4000,-31.894832,116.008852,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30797
+799,St John of God Mt Lawley Hospital,Thirlmere Road,Mount Lawley,WA,6050,08 9370 9222,-31.936721,115.884926,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30798
+800,St John of God Murdoch Hospital,100 Murdoch Drive,Murdoch,WA,6150,08 9366 1111,-32.067919,115.844659,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30799
+801,St John of God Pinelodge Clinic,1480 Heatherton Road,Dandenong,Vic,3175,03 8793 9444,-37.970226,145.213143,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30800
+802,St John of God Richmond Hospital,177 Grose Vale Road,North Richmond,NSW,2754,02 4570 6100,-33.591946,150.702473,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30801
+803,St John of God Subiaco Hospital,12 Salvado Road,Subiaco,WA,6008,08 9382 6111,-31.941246,115.826282,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30802
+804,St John of God Warrnambool Hospital,136 Botanic Road,Warrnambool,Vic,3280,03 5564 0600,-38.371405,142.478749,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30803
+805,St Joseph's Hospital,Normanby Road,Auburn,NSW,2144,02 9649 8941,-33.848659,151.028339,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30804
+806,St Luke's Hospital,18 Roslyn Street,Potts Point,NSW,2011,02 9356 0200,-33.874188,151.225836,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30805
+807,St Margaret's Hospital,65 Military Road,Semaphore,SA,5019,08 8242 9111,-34.846418,138.480466,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30806
+808,St Marys Community Health Centre,Gardiners Creek Road,St Marys,Tas,7215,03 6387 5555,-41.576062,148.181244,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30807
+809,St Stephen's Hospital Hervey Bay,1 Medical Place,Urraween,Qld,4655,07 4120 1200,-25.299851,152.823273,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30808
+810,St Vincent’s Hospital [Darlinghurst],390 Victoria Street,Darlinghurst,NSW,2010,02 8382 1111,-33.879692,151.221125,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30809
+811,St Vincent's Hospital [Fitzroy],41 Victoria Parade,Fitzroy,Vic,3065,03 9288 2211,-37.806545,144.975231,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30810
+812,St Vincents Private Hospital [Lismore],20 Dalley Street,Lismore,NSW,2480,02 6627 9600,-28.819949,153.287381,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30811
+813,St Vincent's Private Hospital Brisbane,411 Main Street,Kangaroo Point,Qld,4169,07 3240 1111,-27.473334,153.03542,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30812
+814,St Vincent's Private Hospital East Melbourne,159 Grey Street,East Melbourne,Vic,3002,03 9928 6555,-37.811733,144.984164,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30813
+815,St Vincent's Private Hospital Fitzroy,59-61 Victoria Parade,Fitzroy,Vic,3065,03 9411 7111,-37.807993,144.976029,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30814
+816,St Vincent's Private Hospital Kew,5 Studley Avenue,Kew,Vic,3101,03 9851 8888,-37.806567,145.023694,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30815
+817,St Vincent's Private Hospital Toowoomba,22-36 Scott Street,Toowoomba,Qld,4350,07 4690 4000,-27.565675,151.971551,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30816
+818,St Vincent's Private Sydney,406 Victoria Street,Darlinghurst,NSW,2010,02 8382 7111,-33.880698,151.219462,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30817
+819,Stanthorpe Hospital,8 McGregor Terrace,Stanthorpe,Qld,4380,07 4683 3400,-28.660927,151.928397,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30818
+820,State Forensic Mental Health Service,Brockway Road,Mount Claremont,WA,6010,08 9347 6960,-31.960937,115.788431,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30819
+821,Stawell Regional Health,27-29 Sloane Street,Stawell,Vic,3380,03 5358 8500,-37.059577,142.781603,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30820
+822,Stirling Hospital,20 Milan Terrace,Stirling,SA,5152,08 8339 0200,-35.007274,138.714859,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30821
+823,Strathalbyn and District Health Service,14 Alfred Place,Strathalbyn,SA,5255,08 8536 5333,-35.257674,138.893558,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30822
+824,Strathfield Private Hospital,3 Everton Road,Strathfield,NSW,2135,02 9745 7444,-33.872059,151.097544,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30823
+825,Streaky Bay Hospital,1 Flinders Drive,Streaky Bay,SA,5680,08 8626 1009,-32.792776,134.217524,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30824
+826,Subiaco Private Hospital,"Suite 9, 1 Salvado Road",Subiaco,WA,6008,08 6555 6599,-31.9434,115.826,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30825
+827,Sunbury Day Hospital,7 Macedon Street,Sunbury,Vic,3429,03 9732 8600,-37.576998,144.732674,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30826
+828,Sunnybank Private Hospital,245 McCullough Street,Sunnybank,Qld,4109,07 3344 9444,-27.572541,153.061051,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30827
+829,Sunshine Coast Day Surgery,Second Ave & Memorial Avenue,Maroochydore,QLD,4558,07 5444 9033,-26.655373,153.096157,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30828
+830,Sunshine Coast Haematology and Oncology Clinic,10 King Street,Buderim,Qld,4556,07 5479 0000,-26.657299,153.094955,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30829
+831,Sunshine Coast University Hospital,6 Doherty Street,Birtinya,Qld,4575,07 5202 0000,-26.74681,153.113812,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30830
+832,Sunshine Coast University Private Hospital,3 Doherty Street,Birtinya,Qld,4575,07 5390 6000,-26.74422,153.114563,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30831
+833,Sunshine Hospital,176 Furlong Road,St Albans,Vic,3021,03 8345 1333,-37.759179,144.816477,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30832
+834,Surat Hospital,Ivan Street,Surat,Qld,4417,07 4626 5166,-27.156595,149.063787,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30833
+835,Sutherland Heart Clinic,"Level 2, The Sutherland Hospital, The Kingsway",Caringbah,NSW,2229,02 9540 8555,-34.037931,151.114153,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30834
+836,Sutherland Hospital,430 Kingsway,Caringbah,NSW,2229,02 9540 7111,-34.037288,151.115151,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30835
+837,Swan Hill District Health [Nyah],Monash Avenue,Nyah West,Vic,3595,03 5030 2572,-35.186052,143.355428,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30836
+838,Swan Hill District Health [Swan Hill],48 Splatt Street,Swan Hill,Vic,3585,03 5033 9300,-35.340588,143.556514,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30837
+839,Sydney Adventist Hospital,185 Fox Valley Road,Wahroonga,NSW,2076,02 9487 9111,-33.733379,151.099874,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30838
+840,Sydney Children's Hospital,High Street,Randwick,NSW,2031,02 9382 1111,-33.917179,151.238334,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30839
+841,Sydney Day Surgery - Prince Alfred,"RPAH Medical Centre - Suite 106, 100 Carillon Avenue",Newtown,NSW,2042,02 9550 5600,-33.8912,151.1835,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30840
+842,Sydney Dental Hospital,2 Chalmers Street,Surry Hills,NSW,2010,02 9293 3200,-33.884469,151.207811,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30841
+843,Sydney Hospital / Sydney Eye Hospital,8 Macquarie Street,Sydney,NSW,2000,02 9382 7111,-33.867929,151.212575,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30842
+844,Sydney Southwest Private Hospital,40 Bigge Street,Liverpool,NSW,2170,02 9821 0333,-33.917876,150.927499,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30843
+845,Tailem Bend District Hospital,74 Princes Highway,Tailem Bend,SA,5260,08 8572 5800,-35.254803,139.452692,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30844
+846,Tallangatta Health Service,25 Barree Street,Tallangatta,Vic,3700,02 6071 5200,-36.213705,147.183709,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30845
+847,Tamara Private Hospital,2-6 Dean Street,Tamworth,NSW,2340,02 6766 1955,-31.077535,150.921764,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30846
+848,Tamworth Hospital,31 Dean Street,Tamworth,NSW,2340,02 6767 7700,-31.074079,150.924199,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30847
+849,Tanunda War Memorial Hospital,15 Mill Street,Tanunda,SA,5352,08 8563 2398,-34.528082,138.960859,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30848
+850,Tara Hospital,15 Bilton Street,Tara,Qld,4421,07 4678 7900,-27.273674,150.456368,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30849
+851,Taroom Hospital,Miller Street,Taroom,Qld,4420,07 4628 9900,-25.638818,149.798669,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30850
+852,Tasman Health and Community Service,1614 Nubeena Road,Nubeena,Tas,7184,03 6250 9000,-43.096752,147.742831,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30851
+853,Temora Hospital,169 Loftus Street,Temora,NSW,2666,02 6980 0200,-34.443942,147.542616,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30852
+854,Tennant Creek Hospital,41 Schmidt Street,Tennant Creek,NT,860,08 8962 4399,-19.647791,134.186893,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30853
+855,Tenterfield Hospital,1-5 Naas Street,Tenterfield,NSW,2372,02 6739 5200,-29.045083,152.013552,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30854
+856,Terang & Mortlake Health Service [Terang],13 Austin Avenue,Terang,Vic,3264,03 5592 0222,-38.239388,142.902119,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30855
+857,Texas Hospital,Mingoola Road,Texas,Qld,4385,07 4653 3200,-28.855978,151.179481,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30856
+858,The Alfred,55 Commercial Road,Prahran,Vic,3181,03 9076 2000,-37.846087,144.981937,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30857
+859,The Avenue Hospital,40 The Avenue,Windsor,Vic,3181,03 9529 7377,-37.854809,144.998513,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30858
+860,The Bays Hospital,Vale Street,Mornington,Vic,3931,03 5975 2009,-38.223524,145.040939,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30859
+861,The Bendigo Hospital,62 Lucan Street,Bendigo,Vic,3550,03 5454 6000,-36.748727,144.283372,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30860
+862,The Border Cancer Hospital,201-239 Borella Road,Albury,NSW,2640,02 6064 1400,-36.078399,146.938123,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30861
+863,The Cairns Clinic,253 Sheridan Street,Cairns,Qld,4870,07 4050 7000,-16.910828,145.76209,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30862
+864,The Canberra Hospital,Yamba Drive,Garran,ACT,2605,02 5124 0000,-35.345777,149.100898,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30863
+865,The Children's Hospital at Westmead,178 Hawkesbury Road,Westmead,NSW,2145,02 9845 0000,-33.801554,150.991759,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30864
+866,The Eye Hospital,262 Charles Street,Launceston,Tas,7250,03 6334 4960,-41.444592,147.141609,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30865
+867,The Geelong Clinic,98 Townsend Road,St Albans Park,Vic,3219,03 5248 1155,-38.182406,144.393267,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30866
+868,The Hills Clinic Kellyville,15-17 Memorial Avenue,Kellyville,NSW,2155,1300 122 144,-33.716759,150.952057,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30867
+869,The Hills Private Hospital,499 Windsor Road,Baulkham Hills,NSW,2153,02 9639 3333,-33.743476,150.9825,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30868
+870,The Hobart Clinic,31 Chipmans Road,Rokeby,Tas,7019,03 6247 9960,-42.905613,147.435278,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30869
+871,The Kilmore & District Hospital,Rutledge Street,Kilmore,Vic,3764,03 5734 2000,-37.301794,144.957915,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30870
+872,The McKellar Centre,45-95 Ballarat Road,North Geelong,Vic,3215,03 5279 2222,-38.118795,144.335728,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30871
+873,The Melbourne Clinic,130 Church Street,Richmond,Vic,3121,03 9429 4688,-37.814361,144.998739,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30872
+874,The Memorial Hospital,Sir Edwin Smith Avenue,North Adelaide,SA,5006,08 8366 3800,-34.912733,138.599385,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30873
+875,The Mornington Centre,Corner of Tyalla Grove and Separation Street,Mornington,Vic,3931,03 5976 2733,-38.230174,145.041697,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30874
+876,The Northern Hospital [Epping],185 Cooper Street,Epping,Vic,3076,03 8405 8000,-37.653417,145.014381,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30875
+877,The Park Centre For Mental Health,Corner of Ellerton Drive and Wolston Park Road,Wacol,Qld,4076,07 3271 8222,-27.600413,152.910246,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30876
+878,The Peter James Centre [East Burwood],321-345 Burwood Highway,Forest Hill,Vic,3131,03 9881 1888,-37.852712,145.164542,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30877
+879,The Prince Charles Hospital,Rode Road,Chermside,Qld,4032,07 3139 4000,-27.390497,153.021955,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30878
+880,The Queen Elizabeth Hospital,28 Woodville Road,Woodville,SA,5011,08 8222 6000,-34.884179,138.534039,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30879
+881,The Royal Victorian Eye & Ear Hospital,32 Gisborne Street,East Melbourne,Vic,3002,03 9929 8666,-37.808978,144.976245,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30880
+882,The Skin & Cancer Foundation Australia,7 Ashley Lane,Westmead,NSW,2145,02 8833 3000,-33.8072,150.98879,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30881
+883,The Southport Private Hospital,21 Spendelove Avenue,Southport,Qld,4215,07 5671 8000,-27.973078,153.407852,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30882
+884,The Sydney Clinic,22-24 Murray Street,Bronte,NSW,2024,02 9389 8888,-33.901383,151.260988,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30883
+885,The Sydney Private Hospital Incorporating the NSW Eye Centre,63 Victoria Street,Ashfield,NSW,2131,02 9797 0555,-33.894,151.1299,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30884
+886,The Townsville Hospital,100 Angus Smith Drive,Douglas,Qld,4814,07 4433 1111,-19.320683,146.762092,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30885
+887,The Tweed Hospital,14 Powell Street,Tweed Heads,NSW,2485,07 5536 1133,-28.177216,153.545458,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30886
+888,The Valley Private Hospital,Corner of Police and Gladstone Roads,Mulgrave,Vic,3170,03 9790 9333,-37.938409,145.213122,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30887
+889,The Victoria Clinic,324 Malvern Road,Prahran,Vic,3181,03 9526 0200,-37.847714,144.997225,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30888
+890,The Victorian Rehabilitation Centre,499 Springvale Road,Glen Waverley,Vic,3150,03 9566 2777,-37.898227,145.161425,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30889
+891,The Wesley Hospital,451 Coronation Drive,Auchenflower,Qld,4066,07 3232 7000,-27.478335,152.997971,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30890
+892,Theodore Hospital,The Boulevard,Theodore,Qld,4719,07 4990 3000,-24.943109,150.075277,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30891
+893,Thomas Walker Hospital,Hospital Road,Concord West,NSW,2138,02 9736 2288,-33.832336,151.097897,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30892
+894,Thursday Island Hospital,163 Douglas Street,Thursday Island,Qld,4875,07 4069 0200,-10.588,142.21156,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30893
+895,Tibooburra Hospital,Sturt Street,Tibooburra,NSW,2880,08 8091 3302,-29.433211,142.012817,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30894
+896,Timboon & District Healthcare Service,21 Hospital Road,Timboon,Vic,3268,03 5558 6000,-38.486231,142.976717,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30895
+897,Tingha Multi Purpose Service,Inverell Road,Tingha,NSW,2369,02 6723 3901,-29.950779,151.206732,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30896
+898,Tocumwal Hospital,Adams Street,Tocumwal,NSW,2714,03 5874 2166,-35.815407,145.568996,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30897
+899,Tom Price Hospital,862 Mine Road,Tom Price,WA,6751,08 9159 5222,-22.695367,117.790271,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30898
+900,Tomaree Hospital,2 Trevally Street,Nelson Bay,NSW,2315,02 4984 0700,-32.720053,152.158858,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30899
+901,Toosey Memorial Hospital (Longford),10 Archer Street,Longford,Tas,7301,03 6391 1202,-41.593091,147.119486,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30900
+902,Toowong Private Hospital,496 Milton Road,Toowong,Qld,4066,07 3721 8000,-27.47736,152.99125,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30901
+903,Toowoomba Hospital,Pechey Street,Toowoomba,Qld,4350,07 4616 6000,-27.569872,151.944433,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30902
+904,Toowoomba Surgicentre,18 Scott Street,Toowoomba,Qld,4350,07 4659 3100,-27.566341,151.973785,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30903
+905,Tottenham Multipurpose Service,Lot 10 Moondana Street,Tottenham,NSW,2873,02 6891 6200,-32.242711,147.358031,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30904
+906,Townsville Day Surgery,1 Martinez Avenue,West End,Qld,4810,07 4725 4500,-19.268889,146.782836,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30905
+907,Trangie Multi Purpose Service,28 Harris Street,Trangie,NSW,2823,02 6880 8200,-32.030813,147.976355,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30906
+908,Tresillian Care Centres,McKenzie Street,Belmore,NSW,2192,02 9787 0800,-33.918732,151.097526,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30907
+909,"Tresillian Family Care Centre, Kingswood",1b Barber Avenue,Kingswood,NSW,2747,02 4734 2124,-33.758161,150.714392,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30908
+910,Trundle Multi Purpose Health Service,44 Brookview Street,Trundle,NSW,2875,02 6892 1900,-32.921078,147.704315,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30909
+911,Tullamore Multi Purpose Health Service,1 Hinkler Street,Tullamore,NSW,2874,02 6891 3100,-32.635114,147.568997,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30910
+912,Tully Hospital,Bryant Street,Tully,Qld,4854,07 4068 4144,-17.927624,145.924146,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30911
+913,Tumbarumba Multi Purpose Service,4 Mitchell Street,Tumbarumba,NSW,2653,02 6948 9600,-35.778706,148.006203,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30912
+914,Tumby Bay Hospital and Health Services,8-11 Esplanade,Tumby Bay,SA,5605,08 8688 2007,-34.372292,136.103932,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30913
+915,Tumut Hospital,105 Simpson Street,Tumut,NSW,2720,02 6947 0800,-35.307265,148.219552,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30914
+916,Tweddle Child & Family Health Centre [Footscray],53 Adelaide Street,Footscray,Vic,3011,03 9689 1577,-37.797407,144.887421,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30915
+917,Tweed Day Surgery,38-44 Boyd Street,Tweed Heads,NSW,2485,07 5599 5522,-28.179019,153.539989,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30916
+918,Ulladulla Endoscopy and Medical Centre,111 Princes Highway,Ulladulla,NSW,2539,02 4455 5422,-35.358764,150.473481,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30917
+919,University Hospital Geelong,Bellerine Street,Geelong,Vic,3220,03 4215 0000,-38.151533,144.364964,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30918
+920,Upper Murray Health & Community Services [Corryong],20 Kiell Street,Corryong,Vic,3707,02 6076 3200,-36.198711,147.902798,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30919
+921,Urana Multi Purpose Service,127-129 Princess Street,Urana,NSW,2645,02 6920 8106,-35.325419,146.267316,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30920
+922,Urbenville Multi Purpose Service,45 Beaury Street,Urbenville,NSW,2475,02 6634 1600,-28.471511,152.543029,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30921
+923,Ursula Frayne Centre,35 Mavis Street,Footscray,Vic,3011,03 9319 7000,-37.791148,144.886747,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30922
+924,Vegetable Creek Multi Purpose Service Emmaville,13-33 Glen Innes Road,Emmaville,NSW,2371,02 6734 7900,-29.450547,151.599204,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30923
+925,Victoria Parade Surgery Centre,"Level 1, 100 Victoria Parade",East Melboune,Vic,3002,03 9650 4000,-37.808521,144.97476,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30924
+926,Victorian Institute of Forensic Mental Health,Yarra Bend Road,Fairfield,Vic,3078,03 8684 0000,-37.78931,145.012975,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30925
+927,Victorian Institute of Forensic Mental Health Prison Health Service,317 Spencer Street,Melbourne,Vic,3001,03 8684 0000,-37.812763,144.950757,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30926
+928,Vision Day Surgery Camberwell,27 Denmark Hill Road,Camberwell,Vic,3123,03 9882 1347,-37.83252,145.0556,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30927
+929,Vision Day Surgery Chatswood,"Level 3, 270 Victoria Avenue",Chatswood,NSW,2086,02 9424 9999,-33.795181,151.187314,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30928
+930,Vision Day Surgery Eastern,852 Whitehorse Road,Box Hill,Vic,3128,03 9880 4333,-37.817591,145.119433,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30929
+931,Vision Day Surgery Footscray,89 Paisley Street,Footscray,Vic,3011,03 9689 9233,-37.800508,144.895155,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30930
+932,Vision Day Surgery Hurstville,8-10 Woniora Road,Hurstville,NSW,2220,02 9585 2585,-33.966949,151.100439,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30931
+933,Vision Day Surgery Rivercity,401 Milton Road,Auchenflower,Qld,4066,07 3736 3000,-27.473726,152.995579,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30932
+934,Vision Eye Institute,600 St Kilda Road,Melbourne,Vic,3004,03 9521 2175,-37.850605,144.980304,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30933
+935,Wagga Endoscopy Centre,50 Best Street,Wagga Wagga,NSW,2650,02 6921 2711,-35.115815,147.365914,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30934
+936,Wagga Wagga Hospital,260-280 Edward Street,Wagga Wagga,NSW,2650,02 5943 1000,-35.118083,147.356915,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30935
+937,Wagin Hospital,Warwick Street,Wagin,WA,6315,08 9861 3444,-33.304662,117.347319,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30936
+938,Waikerie Health Service,1 Lawrie Terrace,Waikerie,SA,5330,08 8541 0555,-34.182447,139.984917,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30937
+939,Waikiki Private Hospital,221 Willmott Drive,Waikiki,WA,6169,08 9550 0222,-32.310552,115.763147,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30938
+940,Walcha Multi Purpose Service,Middle Street,Walcha,NSW,2354,02 6774 2366,-30.987818,151.591415,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30939
+941,Walcott Street Surgical Centre,41 Walcott Street,Mount Lawley,WA,6050,08 9227 9004,-31.936554,115.874141,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30940
+942,Walgett Multipurpose Service,141 Fox Street,Walgett,NSW,2832,02 6828 6000,-30.030646,148.115959,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30941
+943,Wangaratta Private Hospital,134-150 Templeton Street,Wangaratta,Vic,3677,03 5722 2678,-36.349299,146.312423,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30942
+944,Wantirna Health,251 Mountain Highway,Wantirna,Vic,3152,03 9955 1200,-37.848525,145.225902,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30943
+945,War Memorial Hospital,125 Birrell Street,Waverley,NSW,2024,02 9369 0100,-33.897496,151.253816,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30944
+946,Waratah Private Hospital,31 Dora Street,Hurstville,NSW,2220,02 9598 0000,-33.963651,151.100464,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30945
+947,Warialda Multi Purpose Service,Long Street,Warialda,NSW,2402,02 6728 9000,-29.538835,150.579567,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30946
+948,Warners Bay Private Hospital,Fairfax Road,Warners bay,NSW,2282,02 4958 4288,-32.965262,151.641204,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30947
+949,Warren Hospital,16 Hospital Avenue,Manjimup,WA,6258,08 9772 5100,-34.240969,116.154112,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30948
+950,Warren Multi Purpose Service,Lot 176 Dr Kater Drive,Warren,NSW,2824,02 6847 7200,-31.693958,147.835679,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30949
+951,Warringal Private Hospital,216 Burgundy Street,Heidelberg,Vic,3084,03 9274 1300,-37.754419,145.060728,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30950
+952,Warwick Hospital,56 Locke Street,Warwick,Qld,4370,07 4660 3900,-28.224275,152.017983,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30951
+953,Wauchope Hospital,69 High Street,Wauchope,NSW,2446,02 6580 8000,-31.457239,152.728131,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30952
+954,Waverley Private Hospital,343-357 Blackburn Road,Mount Waverley,Vic,3149,03 9881 7700,-37.884632,145.145798,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30953
+955,Wee Waa Hospital,60 Alma Street,Wee Waa,NSW,2388,02 6795 0400,-30.225439,149.448287,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30954
+956,Weipa Hospital,Lot 407 John Evans Drive,Weipa,Qld,4874,07 4082 3900,-12.623419,141.881179,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30955
+957,Wellington Health Service,30 Thornton Street,Wellington,NSW,2820,02 6840 8200,-32.549741,148.951977,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30956
+958,Wentworth Hospital,Silver City Highway,Wentworth,NSW,2648,03 5027 7111,-34.109983,141.922481,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30957
+959,Wentworth Psychiatric Services,Derby Street,Penrith,NSW,2750,02 4734 2000,-33.760249,150.712613,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30958
+960,Werribee Mercy Hospital,300 Princes Highway,Werribee,Vic,3030,03 8754 3000,-37.886587,144.698621,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30959
+961,Werris Creek Hospital,22-34 North Street,Werris Creek,NSW,2341,02 6768 6600,-31.346691,150.652513,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30960
+962,Wesley Hospital Ashfield,91 Milton Street,Ashfield,NSW,2131,1300 924 522,-33.8925,151.116666,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30961
+963,Wesley Hospital Kogarah,7 Blake Street,Kogarah,NSW,2217,1300 924 522,-33.968262,151.12896,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30962
+964,West Gippsland Healthcare Group [Warragul],41 Landsborough Street,Warragul,Vic,3820,03 5623 0611,-38.173009,145.926804,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30963
+965,West Wimmera Health Service [Jeparit],2 Charles Street,Jeparit,Vic,3423,03 5391 4222,-36.141132,141.984686,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30964
+966,West Wimmera Health Service [Kaniva],9 Farmers Street,Kaniva,Vic,3419,03 5391 4222,-36.381386,141.246006,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30965
+967,West Wimmera Health Service [Nhill],45 Nelson Street,Nhill,Vic,3418,03 5391 4222,-36.334003,141.655579,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30966
+968,West Wimmera Health Service [Rainbow],2 Swinbourne Avenue,Rainbow,Vic,3424,03 5391 4222,-35.903874,141.995112,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30967
+969,West Wimmera Health Service [Rupanyup],89 Cromie Street,Rupanyup,Vic,3388,03 5363 1200,-36.636571,142.631849,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30968
+970,Western District Health Service [Coleraine District Health Service],71 McLeod Street,Coleraine,Vic,3315,03 5553 2000,-37.599913,141.692018,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30969
+971,Western District Health Service [Hamilton],20 Foster Street,Hamilton,Vic,3300,03 5551 8222,-37.736495,142.030606,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30970
+972,Western District Health Service [Penshurst],146 Cobb Street,Penshurst,Vic,3289,03 5552 3000,-37.877275,142.282487,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30971
+973,Western Gastroenterology Services,1/30 Eleanor Street,Footscray,Vic,3011,03 9318 3399,-37.792005,144.885343,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30972
+974,Western Hospital,168 Cudmore Terrace,Henley Beach,SA,5022,08 8356 1222,-34.909971,138.49966,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30973
+975,Western Hospital [Footscray],160 Gordon Street,Footscray,Vic,3011,03 8345 6666,-37.792298,144.887191,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30974
+976,Western Private Hospital,1-9 Marion Sreet,Footscray,Vic,3011,03 9318 3177,-37.793045,144.885932,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30975
+977,Western Sydney Oncology & Infusion Centre,"Westmead Specialist Centre Level 2, 16-18 Mons Road",Westmead,NSW,2145,02 8837 9800,-33.802024,150.982879,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30976
+978,Westmead Hospital,166-174 Darcy Road,Westmead,NSW,2145,02 8890 5555,-33.804362,150.987811,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30977
+979,Westmead Private Hospital,Corner of Mons and Darcy Roads,Westmead,NSW,2145,02 8837 9000,-33.802865,150.982382,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30978
+980,Westmead Rehabilitation Hospital,7 Coleman Street,Merrylands,NSW,2160,02 8833 3555,-33.819288,150.981059,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30979
+981,Westminster Day Surgery,476 Wanneroo Road,Westminster,WA,6061,08 9349 5555,-31.862769,115.829163,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30980
+982,Whyalla Hospital and Health Services,20 Wood Terrace,Whyalla,SA,5600,08 8648 8300,-33.033977,137.577559,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30981
+983,Wilcannia Multi Purpose Service,14 Ross Street,Wilcannia,NSW,2836,08 8083 8777,-31.557638,143.385336,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30982
+984,Williamstown Hospital,77B Railway Crescent,Williamstown,Vic,3016,03 9393 0100,-37.863576,144.892339,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30983
+985,"Wilson Memorial Community Hospital, Murrurundi",59 O'Connell Street,Murrurundi,NSW,2338,02 6546 9000,-31.770408,150.834764,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30984
+986,Wimmera Base Hospital [Horsham],83 Baillie Street,Horsham,Vic,3400,03 5381 9111,-36.712441,142.208522,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30985
+987,Windsor Private Hospital,20 The Avenue,Windsor,Vic,3181,03 9520 9520,-37.856118,144.998213,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30986
+988,Wingham Hospital,32 Bungay Road,Wingham,NSW,2429,02 6557 3400,-31.878104,152.365179,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30987
+989,Winton Hospital,Bloomfield Street,Winton,Qld,4735,07 4657 2700,-22.381189,143.040672,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30988
+990,Wollongong Day Surgery,354-358 Crown Street,Wollongong,NSW,2500,02 4226 6955,-34.42583,150.881346,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30989
+991,Wollongong Hospital,348 Crown Street,Wollongong,NSW,2500,02 4222 5000,-34.424938,150.883451,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30990
+992,Wollongong Private Hospital,360-364 Crown Street,Wollongong,NSW,2500,02 4286 1000,-34.425814,150.880729,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30991
+993,Wolper Jewish Hospital,8 Trelawney Street,Woollahra,NSW,2025,02 9328 6077,-33.884118,151.240739,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30992
+994,Women's and Children's Hospital,72 King William Road,North Adelaide,SA,5006,08 8161 7000,-34.911444,138.599631,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30993
+995,Women's at Sandringham,193 Bluff Road,Sandringham,Vic,3191,03 9076 1000,-37.961049,145.018157,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30994
+996,Wondai Hospital,Bramston Street,Wondai,Qld,4606,07 4169 2600,-26.323335,151.878658,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30995
+997,Wongan Hills Hospital,Ackland Street,Wongan Hills,WA,6603,08 9691 1222,-30.894159,116.724843,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30996
+998,Woorabinda Hospital,1 Munns Drive,Woorabinda,Qld,4702,07 4913 2800,-24.131492,149.455983,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30997
+999,Woy Woy Hospital,7 Kathleen Street,Woy Woy,NSW,2256,02 4344 8444,-33.496716,151.320952,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30998
+1000,Wudinna Hospital,16-24 Richards Avenue,Wudinna,SA,5652,08 8680 2254,-33.050274,135.466983,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30999
+1001,Wyalkatchem-Koorda and Districts Hospital,Honour Avenue,Wyalkatchem,WA,6485,08 9692 1222,-31.176246,117.386212,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31000
+1002,Wyalong Hospital,70 Ungarie Road,West Wyalong,NSW,2671,02 6979 0000,-33.916373,147.196483,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31001
+1003,Wyndham Hospital,Minderoo Street,Wyndham,WA,6740,08 9161 0222,-15.477793,128.127772,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31002
+1004,Wyong Hospital,664 Pacific Highway,Hamlyn Terrace,NSW,2259,02 4394 8000,-33.261113,151.480761,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31003
+1005,Yarra Ranges Health,25 Market Street,Lilydale,Vic,3140,1300 342 255,-37.756319,145.351204,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31004
+1006,Yarram & District Health Service,85-91 Commercial Road,Yarram,Vic,3971,03 5182 0222,-38.556975,146.678316,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31005
+1007,Yarrawonga District Health Service,33 Piper Street,Yarrawonga,Vic,3730,03 5743 8111,-36.011547,146.006584,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31006
+1008,Yass Hospital,145-147 Meehan Street,Yass,NSW,2582,02 6220 2000,-34.844072,148.906427,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31007
+1009,Yea & District Memorial Hospital,45 Station Street,Yea,Vic,3717,03 5736 0400,-37.213634,145.430724,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31008
+1010,York Hospital,Trews Road,York,WA,6302,08 9641 0200,-31.894392,116.757416,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31009
+1011,Young Hospital,68 Allanan Street,Young,NSW,2594,02 6382 8888,-34.320383,148.288457,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31010
