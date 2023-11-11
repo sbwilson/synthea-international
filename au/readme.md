@@ -1,7 +1,7 @@
 # Australia
 Configuration files for Australian data. 
 
-Produced by Dr Simon Wilson <simon@xeosdd.net>. Feedback and changes are welcome! 
+Produced by Dr Simon Wilson <simon@xeosdd.net>. Feedback and suggestions are welcome! 
 
 ## Data sources
 The majority of data has come from the 2021 Census data from the Australian Bureau of Statistics. 
@@ -14,7 +14,7 @@ The first-pass schema generation was performed using https://www.convertcsv.com/
 Hospital data from https://www.health.gov.au/resources/publications/list-of-declared-hospitals?language=en
 Postcode data from https://www.matthewproctor.com/australian_postcodes 
 
-This query took around 35s to generate the full result on an Apple Mac Studio M1 Max with 64GB RAM running Sonoma and PostgreSQL 16 via Postgres.app. It is far from optimised, but seems to produce the correct data. 
+This query took around 36s to generate the full result on an Apple Mac Studio M1 Max with 64GB RAM running Sonoma 14.1, and PostgreSQL 16 via Postgres.app. It is far from optimised, but seems to produce the correct data. 
 
 ## Notes
 For my puproses, I've used the [Australian Statistical Geography Standard (ASGS) Edition 3](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026) classification of regions. The lowest level of data used for this work is the Statistical Area Level 2 (SA2) data -- "medium-sized general purpose areas ... [which] represent a community that interacts together socially and economically". For "county"-level data, I have chosen SA3, which provides "clustering groups of SA2s that have similar regional characteristics". SA2 gives 2,473 unique regions that cover Australia, that aim to cover an average of 10,000 people (range of 3k-25k). I had attempted to use the non-standard "suburbs and localities (SAL)" data to give more granularity, but in the end, using SA2 seems to be a good balance, giving a demographics.csv file that is approximately 2M in size. 
